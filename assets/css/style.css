@@ -1,0 +1,23 @@
+/* Asterix wildcard selector to override default styles * /
+*  {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box
+}
+
+
+/* Header */
+header  {
+    background-color: #5f376d;
+    color: ffffff;
+}
+
+/* main content */
+main {
+    background-color: #aec1b5;
+}
+
+/* footer */
+footer {
+    background-color: #5f376d;
+}
