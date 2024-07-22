@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     color: #ffffff;
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* Header */
@@ -53,7 +53,7 @@ h1  {
 /* main content */
 main {
     background-color: #aec1b5;
-    flex: 1 0 auto
+    flex: 1 0 auto;
 }
 
 /* footer */
@@ -77,11 +77,14 @@ footer {
     }
 
     #menu > li {
-        padding-left: 1rem;
+        padding-left: 5rem;
     }
     #logo {
         font-size: 288%;
         line-height: 75px;
         margin: 0 0.5rem;
+    }
+    main {
+        margin-top: 79px;
     }
 }
