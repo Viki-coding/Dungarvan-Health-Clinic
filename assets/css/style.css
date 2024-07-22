@@ -26,6 +26,11 @@ header  {
     width: 100%;
     box-shadow: 0 2px 2px #ffffff;
 }
+
+header a {
+    text-decoration: none;
+    color: #ffffff;
+}
 h1  {
     font-family: 'Montserrat' sans-serif;
     color: #ffffff;
