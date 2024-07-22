@@ -5,7 +5,7 @@
 *  {
     padding: 0;
     margin: 0;
-    box-sizing:border-box;
+    box-sizing: border-box;
 }
 
 /* General sytles */
@@ -61,6 +61,20 @@ main {
 /* footer */
 footer {
     background-color: #5f376d;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 180%;
+    padding: 5%;
+    color: #ffffff;
 }
 
 /* media query: tablets and larger (768px and up) */
