@@ -34,6 +34,8 @@ header a {
 h1  {
     font-family: 'Montserrat' sans-serif;
     color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 /* main content */
