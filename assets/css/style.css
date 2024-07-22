@@ -71,4 +71,17 @@ footer {
         width: fit-content;
         padding-right: 1rem;
     }
+    /* Menu */
+    #menu {
+    display:flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+    #logo {
+        font-size: 288%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
 }
