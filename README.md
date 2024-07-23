@@ -100,6 +100,7 @@ Manual Testing
 6. From SOURCE dropdown select Deploy from a Branch
 7. Under BRANCH from dropdown select Main Branch and SAVE
 8. The site is now deployed but may take a few minutes to go live.
+9. Return to <code> tab of Github repo and wait a few minutes for build to finish, refresh page.  This will show on github-pages to see active deployments. 
 
 ### How to Fork
 1. Login to Github
