@@ -77,12 +77,11 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    color: #aec1b5;
+    color: #ffffff;
 }
 
 /* main content */
 main {
-    background-color: #aec1b5;
     flex: 1 0 auto;
     margin-top: 80px;
 }
@@ -92,6 +91,7 @@ main {
     width: 100%;
     background: url("../images/Happy\ medic\ \(1\).jpg") no-repeat center center/cover;
     position: relative;
+    padding-bottom: 10px;
 }
 
 #cover-text {
@@ -103,6 +103,10 @@ main {
     min-height: 200px;
     padding-top: 40px;
     padding-left: 10px;
+}
+
+#cover-text > h3 {
+    color: #060f19;
 }
 
 /* footer */
@@ -149,6 +153,11 @@ footer {
     }
     main {
         margin-top: 79px;
+    }
+
+    #cover-text {
+        width: 300px;
+        left: 50px;
     }
 }
 
