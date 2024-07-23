@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta tags for search engines -->
+     <meta name="description" content="Dungarvan Health Clinic.  A holistic healthcare centre based in Dungarvan with GP, Dietican, Pharmacist and Acupunture all under the one roof">
+     <meta name="keywords" content="GP, dietican, acupunture, pharmacy, Dungarvan, holistic, healthcare, doctor, local, doc, asthma, asthma specialist">
+    <!-- Title -->
+    <title>Dungarvan Health Clinic</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <!-- Stylesheet -->
+     <link rel="stylesheet" href="assets/css/style.css">
+    
+</head>
+<body>
+
+    <header>
+        <a href="index.html">
+            <h1 id="logo">Dungarvan Health Clinic</h1>
+        </a>
+        <input type="checkbox" id="nav-toggle" name="nav-toggle">
+        <label for="nav-toggle" class="nav-toggle-label">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+        <nav>
+            <ul id="menu">
+                <li><a href="index.html" >Home</a></li>
+                <li><a href="meettheteam.html">Meet the Team</a></li>
+                <li><a href="callbackrequest" class="active">Call Back Request</a></li>
+            </ul>
+        </nav>
+    </header>
+    <Main>Main Content
+        <p>1</p>
+        <p>2</p>
+        <p>3</p>
+        <p>4</p>
+        <p>5</p>
+        <p>6</p>
+    </Main>
+    <footer>
+        <ul id="social-networks">
+            <li>
+            <a href="https://www.facebook.com/" target="_blank" rel="noopener"
+            aria-label="Visit our Facebook page (opens in a new tab)">
+            <i class="fa-brands fa-facebook"></i></a>
+            </li>
+            <li>
+            <a href="http://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in new tab)" ><i class="fa-brands fa-instagram"></i></a>
+            </li>
+        </ul>
+    </footer>
+
+      <!-- Font awesome kit -->
+      <script src="https://kit.fontawesome.com/213d853def.js" crossorigin="anonymous"></script>
+    
+</body>
+</html>
