@@ -66,6 +66,11 @@ nav {
     box-shadow: 0 2px 2px #ffffff;
     display: none;
 }
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
 /* main content */
 main {
     background-color: #aec1b5;
