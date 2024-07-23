@@ -97,8 +97,9 @@ Manual Testing
 3. Go to the projects repository (https://github.com/Viki-coding/Dungarvan-Health-Clinic/)
 4. Click on Settings
 5. Select pages in the left navigation bar
-6. From SOURCE dropdown select Main Branch and SAVE
-7. The site is now deployed but may take a few minutes to go live.
+6. From SOURCE dropdown select Deploy from a Branch
+7. Under BRANCH from dropdown select Main Branch and SAVE
+8. The site is now deployed but may take a few minutes to go live.
 
 ### How to Fork
 1. Login to Github
