@@ -17,6 +17,13 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1, h2, h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
 /* Header */
 header {
     background-color: #5f376d;
@@ -35,12 +42,6 @@ header a {
     color: #ffffff;
 }
 
-h1 {
-    font-family: "Montserrat", sans-serif;
-    color: #ffffff;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-}
 
 #menu {
     font-size: 110%;
@@ -89,6 +90,11 @@ main {
     height: 600px;
     width: 100%;
     background: url("../images/Happy\ medic\ \(1\).jpg") no-repeat center center/cover;
+}
+
+#cover-text {
+    background-color: rgba(174, 193, 181, .7);
+    font-size: 130%;
 }
 
 /* footer */
