@@ -25,7 +25,7 @@ header {
     padding: 0 1rem;
     position: fixed;
     z-index: 999;
-    width: 100%;
+    width: 90%;
     box-shadow: 0 2px 2px #ffffff;
     display: flex;
     justify-content: space-between;
@@ -75,11 +75,15 @@ nav {
     display: none;
 }
 
+#nav-toggle-label {
+    font-size: 3rem;
+}
+
 /* main content */
 main {
     background-color: #aec1b5;
     flex: 1 0 auto;
-    margin-top: 79px;
+    margin-top: 47px;
 }
 
 /* footer */
