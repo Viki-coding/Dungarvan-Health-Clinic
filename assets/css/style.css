@@ -134,8 +134,12 @@ main {
   /* Some left and right padding inside the container */
   .container {
     padding: 0 16px;
+    color:#060f19;
   }
   
+  .container > h2 {
+    color: #060f19;
+  }
   /* Clear floats */
   .container::after, .row::after {
     content: "";
@@ -146,6 +150,7 @@ main {
   .title {
     color: grey;
   }
+
   
 /* footer */
 footer {
