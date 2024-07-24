@@ -84,6 +84,7 @@ nav {
 main {
     flex: 1 0 auto;
     margin-top: 80px;
+    background-color: rgba(174, 193, 181);
 }
 
 #hero {
@@ -151,7 +152,14 @@ main {
     color: grey;
   }
 
-  
+  /* Call back request */
+  #callback {
+    background-image: url(../assets/images/phone 2.png);
+    background-size:cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+  }
 /* footer */
 footer {
     background-color: #5f376d;
@@ -159,6 +167,7 @@ footer {
 
 footer > h3, p {
     padding-left: 5px;
+    padding-top: 5px;
 }
 
 #social-networks {
