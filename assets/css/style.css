@@ -157,6 +157,10 @@ footer {
     background-color: #5f376d;
 }
 
+footer > h3, p {
+    padding-left: 5px;
+}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
