@@ -172,8 +172,8 @@ main {
   }
 
   .text-input {
-    background-color: transparent;
-    color: #fafafa;
+    background-color: #fafafa;
+    color: #060f19;
     width: 100%;
     height: 25px;
     margin: 5px 0 20px 0;
@@ -188,6 +188,7 @@ main {
     font-size: 100%;
     background-color: #5F376D;
     color: #fafafa;
+    background-position: center;
   }
 /* footer */
 footer {
@@ -243,6 +244,28 @@ footer > h3, p {
     #cover-text {
         width: 400px;
         left: 50px;
+    }
+
+    #callback {
+        background-position: center;
+        position: relative;
+    }
+
+    #callbackform {
+        max-width: 400px;
+        position: absolute;
+        left: 10%;
+        top: 150px;
+    }
+
+    .text-input:hover {
+        border-color: #060f19;
+    }
+
+    .callback-button:hover {
+        background-color: #5F376D;
+        border: #060f19;
+        color: #060f19;
     }
 }
 
