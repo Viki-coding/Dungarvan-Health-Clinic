@@ -270,8 +270,9 @@ footer > h3, p {
 
     .callback-button:hover {
         background-color: #5F376D;
-        border: #060f19;
-        color: #060f19;
+        border: #ffffff;
+        color: #aec1b5;
+        font-size: larger;
     }
 }
 
