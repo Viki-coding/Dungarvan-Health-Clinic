@@ -192,6 +192,11 @@ main {
     color: #fafafa;
     background-position: center;
   }
+
+  #callbackjpg {
+    display: none;
+  }
+  
 /* footer */
 footer {
     background-color: #5f376d;
@@ -277,9 +282,12 @@ footer > h3, p {
 
     #callbackjpg {
         float: right;
-        border-radius: 50%;
         padding-right: 300px;
         padding-top: 100px;
+    }
+
+    #callbackjpg > img {
+        border-radius: 50%;
     }
 }
 
