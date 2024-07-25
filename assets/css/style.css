@@ -117,7 +117,7 @@ main {
     margin-bottom: 16px;
     padding: 80px 8px;
   }
-  
+
   /* Display the columns below each other instead of side by side on small screens */
   @media screen and (max-width: 650px) {
     .column {
@@ -223,6 +223,10 @@ footer > h3, p {
         box-shadow: none;
         width: fit-content;
         padding-right: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
     }
     /* Menu */
     #menu {
