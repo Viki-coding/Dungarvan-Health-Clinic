@@ -15,6 +15,7 @@ body {
     flex-direction: column;
     color: #ffffff;
     font-family: 'Montserrat', sans-serif;
+    background-color: #aec1b5;
 }
 
 h1, h2, h3 {
@@ -128,6 +129,7 @@ main {
   
   /* Add some shadows to create a card effect */
   .card {
+    background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
   
