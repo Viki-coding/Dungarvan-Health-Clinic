@@ -274,6 +274,13 @@ footer > h3, p {
         color: #aec1b5;
         font-size: larger;
     }
+
+    #callbackjpg {
+        float: right;
+        border-radius: 50%;
+        padding-right: 300px;
+        padding-top: 100px;
+    }
 }
 
 /* Large devices (tablets and desktops, 992px and up) */
