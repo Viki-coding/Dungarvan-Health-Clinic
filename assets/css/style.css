@@ -240,6 +240,19 @@ footer > h3, p {
     color: #ffffff;
 }
 
+#social-networks > li {
+  padding-right: 20px;
+}
+
+#footercontainer {
+  display: flex;
+}
+
+#footercontainer > div {
+  margin: 10px;
+  padding: 20px;
+}
+
 /* media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
