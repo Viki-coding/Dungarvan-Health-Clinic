@@ -110,6 +110,25 @@ main {
     color: #060f19;
 }
 
+ /* unvisited link */
+ #tel > a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  #tel > a:visited {
+    color: aec1b5;
+  }
+  
+  /* mouse over link */
+  #tel > a:hover {
+    font-size: larger;
+  }
+  
+  /* selected link */
+  #tel > a:active {
+    color: blue;
+  } 
 /* Meet the team */
 /* Three columns side by side */
 .column {
