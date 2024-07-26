@@ -117,18 +117,18 @@ main {
   
   /* visited link */
   #tel > a:visited {
-    color: aec1b5;
+    color: #aec1b5;
   }
   
   /* mouse over link */
   #tel > a:hover {
     font-size: larger;
   }
-  
-  /* selected link */
-  #tel > a:active {
-    color: blue;
-  } 
+
+ /* selected link */
+ #tel > a:active {
+  color: white;
+} 
 /* Meet the team */
 /* Three columns side by side */
 .column {
