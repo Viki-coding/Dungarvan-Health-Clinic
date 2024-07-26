@@ -1,15 +1,15 @@
 ## Dungarvan Health Clinic
-## Introduction (What the project is, why it exists, who it's intended for)
-Dungarvan Health Clinic is a website for highlighting the holistic offerings of health services in one accessible health centre. 
-We aim to showcase the services provided, the qualifications of its health practitioners and contact details to make a booking or request a call back. Existing and new patients will be able to access the contact services with ease.  
-### Description Project Purpose 
+## Introduction 
+The Dungarvan Health Clinic website for highlighting the holistic offerings of health services in one accessible health centre. 
+We aim to showcase the services provided, the qualifications of its health practitioners and contact details to make a telephone appointment or request a call back. Existing and new patients will be able to access the contact services with ease.  
+### Description  - Project Purpose 
 If they wish to have the benefit of requesting a 'Call Back' with regard to a specific health category there is an easy to use form for this. The benefit of the 'Call-Back' form is useful for 2 main reasons - 
 1. It allows patients who may be at work, or out of hours, or busy with childcare and opportunity to take action to making the first-step in contacting a health professional.
 2. It allows for the Health practices itself to manage the appointments in a more efficient manner as it sees the category the patient is interested in and allows them to 'Call Back' in quieter clinic times.
 ### User Demographics - Target audience
-The target audience is new and existing patients based in the Dungarvan area within a 20 mile radius.  It also aims to increase its patients from the county of Waterford needing specialist advice in areas such as 'Asthma management'. With the increase population of Ukrainian refugees we wanted to highlight the distinct advantage of having a Ukrainian doctor who would be able to communicate easily with our increasing Ukrainian population.  
-First Time users - intuative, easy to navigate
-Return Visit - easy to access phone number and call back form.
+The target audience is new and existing patients based in the Dungarvan area within a 20 mile radius.  It also aims to increase its patients from the county of Waterford needing specialist advice in areas such as 'Asthma management'. With the increase population of Ukrainian refugees we wanted to highlight the distinct advantage of having a Ukrainian doctor who would be able to communicate easily with our increasing Ukrainian population.  We have included these keywords in our opening header so SEO search results will be optimized. 
+First Time users will find the site intuative and easy to navigate.  The site is clear, the Home page has a clear call to action of ringing to book and appointment, highlghting the phone number visably and accessing the clinics location easily. 
+Our return visitors will know that the clinics phone number is accessible on the Home page and will be familliar with the call back form.
 ## UX
 ##Site Goals
 ##Design Choices
