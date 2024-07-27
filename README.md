@@ -17,6 +17,9 @@ User Stories
 
 ### Color Scheme
 We choose these color schemes as green is a calming color and purple is a healing color.  We checked which font color stood out best against these, both getting 5 star ratings.  Graphic illustrated below. 
+<img width="1075" alt="Screenshot 2024-07-18 at 13 59 59" src="https://github.com/user-attachments/assets/ad59197b-825e-4d49-b757-1619be30829c">
+<img width="1148" alt="Screenshot 2024-07-18 at 14 05 49" src="https://github.com/user-attachments/assets/3fcdba6a-9926-4750-bdd6-54e232462a2d">
+
 ### Typograpghy
 We used the font Monsterrat which use a Sans Serif font which is good for accessibility and a dyslexix friendly font. 
 Looks professional.
