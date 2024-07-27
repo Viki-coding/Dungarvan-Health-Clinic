@@ -111,22 +111,23 @@ main {
 }
 
  /* unvisited link */
- #tel > a:link {
+
+ #phone > a:link {
     color: white;
   }
   
   /* visited link */
-  #tel > a:visited {
+  #phone > a:visited {
     color: #aec1b5;
   }
   
   /* mouse over link */
-  #tel > a:hover {
+  #phone > a:hover {
     font-size: larger;
   }
 
  /* selected link */
- #tel > a:active {
+ #phone > a:active {
   color: white;
 } 
 /* Meet the team */
