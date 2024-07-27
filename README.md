@@ -105,6 +105,11 @@ Used a monile - samgsung tablet and macbook
   Known bugs
   Solved Bugs
   *** Insert screen shot here ***
+    <img width="1291" alt="Screenshot 2024-07-27 at 12 18 40" src="https://github.com/user-attachments/assets/87aed563-5abe-4383-a099-9e2f15e15b68">
+
+  During W3 html validation on the 'Meet the Team' page the following errors was highlighted.  We fixed the spaces in the file name in the root directory which fixed the errors.
+<img width="1354" alt="Screenshot 2024-07-27 at 12 22 17" src="https://github.com/user-attachments/assets/f886b2fd-fba6-4f0b-8799-b3ea3a7cba06">
+
 
   Testing.md was done straigt away. 
   Testing was on-going thoughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
