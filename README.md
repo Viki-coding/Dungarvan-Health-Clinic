@@ -88,7 +88,9 @@ Coolors - checking colour pallets and their contrast abilites with fonts.
 ## Manual Testing (Does the site work as intended?)
 HTML
 * W3c validator
-CSS
+ > W3C CSS validator
+<img width="642" alt="Screenshot 2024-07-27 at 12 05 38" src="https://github.com/user-attachments/assets/b0c015e0-d1ea-4734-b2f2-f860db6371ff">
+
 * 
 * Lighthouse
 Manual Testing
