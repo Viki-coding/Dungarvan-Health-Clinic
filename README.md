@@ -3,11 +3,11 @@
 ___
 
 ### Introduction
-The Dungarvan Health Clinic website highlights the holistic offerings of health services in one accessible health centre. 
+The Dungarvan Health Clinic website highlights the holistic offerings of health services in one accessible health centre. The main goal of the website is for users to contact us.
 We aim to showcase the services provided, the qualifications of its health practitioners and allow the user to contact or make an appointment easily with a couple of options.
 
 ### Description  - Project Purpose 
-The website consists of 3 pages.  Each clear, simple and effective. The user logs on to the website, sees a friendly faced image, to make a possible apprehensive patient more relaxed.  The user (who may be feeling unwell) do not need to see a complicated website to navigate through, our aim was to make the website easily navigable and intuitive with clear call to actions. 
+The website consists of 3 pages.  Each clear, simple and effective. The user logs on to the website, sees a friendly faced image, making a possible apprehensive patient more relaxed.  The user (who may be feeling unwell) do not need to see a complicated website to navigate through, our aim was to make the website easily navigable and intuitive with clear call to actions, i.e. to contact the clinic. 
 
 ### User Demographics - Target audience
 The target audience is new and existing patients based in the Dungarvan area within a 20 mile radius.  It also aims to increase its patients from the county of Waterford needing specialist advice in areas such as 'Asthma management' and 'Women's Health'. With the increase population of Ukrainian refugees we wanted to highlight the distinct advantage of having a Ukrainian doctor who would be able to communicate easily with our increasing Ukrainian population.  We have included these keywords in our opening header so SEO search results will be optimized. 
@@ -138,7 +138,7 @@ As shown above we navigated around our site and tested all available options to 
 
   ### BUGS
   **Known bugs**
-  On our Call back page we would like to click on the SUBMIT button and be redirected to a page to say Thank you for your reqest, we will be in touch shortly.  But we were unable to do this. 
+  On our Call back page we would like to click on the SUBMIT button and be redirected to a page to say Thank you for your request, we will be in touch shortly.  But we were unable to do this. 
 
   **Solved Bugs**
   When running W3C CSS validator - it displayed the following message: 
