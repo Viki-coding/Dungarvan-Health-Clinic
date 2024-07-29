@@ -11,7 +11,7 @@ The website consists of 3 pages.  Each clear, simple and effective. The user log
 The target audience is new and existing patients based in the Dungarvan area within a 20 mile radius.  It also aims to increase its patients from the county of Waterford needing specialist advice in areas such as 'Asthma management' and 'Women's Health'. With the increase population of Ukrainian refugees we wanted to highlight the distinct advantage of having a Ukrainian doctor who would be able to communicate easily with our increasing Ukrainian population.  We have included these keywords in our opening header so SEO search results will be optimized. 
 
 ## UX
-##Site Goals
+Site Goals
 First Time users will find the site intuitive and easy to navigate.  The site is clear, the Home page has a clear call to actions with features such as a link using the phone number to book an appointment, highlighting the phone number visibly and displaying the clinics location easily. 
 Our return visitors will know that the clinics phone number is accessible on the Home page and will be familiar with the call back form.
 
@@ -41,13 +41,20 @@ We created a wireframe using Balsamiq to plan out the structure and style of web
 
 > ## HOME PAGE
 The HOME page contains a clear information section on what we offer. 
+___
+
+## Navigation Bar
 Our navigation bar on the top, which shows a menu 'burger' icon on mobile and expands to detail on larger devices. Our navigation menu clearly shows which page the user is on as it is underlined. 
+___
+
 The hero image shown here is of a friendly, happy faced healthcare worker which sets up the friendly tone and familiarity that Dungarvan Health Clinic wish to portray. 
 We clearly list the healthcare services provided. 
 Our call to action feature on this Home page is the phone number, we want people to contact us.  The phone number is visible, on larger screens it enlarges when the mouse hovers over it and if clicked will begin a call. 
+___
 
-> ## FOOTER
+## Footer
 Our Footer bar offers easy access to the location details of our health clinic with Eircode and active links to our Facebook and Instagram pages which open in separate pages. 
+
 
 > ## MEET THE TEAM
 Shows our healthcare workers, qualifications and spoken languages on nice feature cards which stack when viewing on mobile, making it look professional while give the user their first introduction to their doctor or health professional which will help to make them more comfortable at their first appointment. 
@@ -69,12 +76,20 @@ This form asks for the users first and last name, email and phone number.  It th
 
 This feature allows the user to interact with the clinic, even during out of hours and creates an action that they will receive a call back if the form is submitted. When they hover the mouse over the SUBMIT button the text enlarges encouraging them to click and commit. 
 
-Navigation and footer bar remains the same.
+Navigation and footer bar remains the same on all three pages to offer consistency and good user experience.
 
 ### Navigation & Interaction Points 
 We have 3 pages on our site - Home - Meet the Team - Call Back Request
-This will be displayed on our nav bar at the top of each page and can be navigated between easily.
-We will be interacting with the user when they click on the Phone link on the HOME page, they will have their first interactions with their healthcare worker when they view them on the 'Meet the Team' page  where they can get familiar with which healthcare worker would be the best fit for them.   Another great interaction point is our forms section to make a Call Back request - creating an action to making that first step to initiating an appointment. 
+
+Our three pages will be displayed on our nav bar at the top of each page and can be navigated easily between.  The user will understand which page they are on as there is an underline under the active page.
+
+We will be interacting with the user when they click on the Phone link on the HOME page.  
+
+They will have their first interactions with their healthcare worker when they view them on the 'Meet the Team' page  where they can get familiar with which healthcare worker would be the best fit for them.   
+
+Another great interaction point is our forms section to make a Call Back request - creating an action to making that first step to initiating an appointment. 
+
+Finally they can interact with our social media sites by clicking on the links which will open in a new page. 
 
 
 **Picture below of example of Call Back Request Form**
@@ -82,7 +97,7 @@ We will be interacting with the user when they click on the Phone link on the HO
 <img width="900" alt="Screenshot 2024-07-25 at 17 34 25" src="https://github.com/user-attachments/assets/9b930ba0-c06a-479e-8778-0229d0308514">
 
 ## Future Implementation Section 
-This site could be development in the future with the patients making their own on-line bookings. 
+This site could be developed in the future with the patients making their own on-line bookings. 
 Payments could be made on-line with a history of invoices paid so the user can claim it back on their tax relief rather than having physical pieces of paper stored in random places at home. 
 Patients could access Downloadable patient information sheets. 
 List of available services and doctors could expand. 
@@ -111,6 +126,8 @@ HTML
 
 ### Quality Assurance - Steps taken to manually test project / Ensure it functions correctly / Identifies potential bugs
 We created a specific testing template to ensure and re-check all pages were working correctly as specified with expected and actual outcomes using a methodical approach.   
+
+<img width="1195" alt="Screenshot 2024-07-29 at 15 12 40" src="https://github.com/user-attachments/assets/e1cebea5-8a38-42fa-b9d0-993790b15741">
 
 * Lighthouse
 Manual Testing
@@ -144,7 +161,7 @@ Each page has been inspected using google chrome developer tools and Firefox ins
 6. From SOURCE dropdown select Deploy from a Branch
 7. Under BRANCH from dropdown select Main Branch and SAVE
 8. The site is now deployed but may take a few minutes to go live.
-9. Return to <code> tab of Github repo and wait a few minutes for build to finish, refresh page.  This will show on github-pages to see active deployments. 
+9. Return to CODE tab of Github repo and wait a few minutes for build to finish, refresh page.  This will show on github-pages to see active deployments. 
 
 ### How to Fork
 1. Login to Github
@@ -156,14 +173,14 @@ Each page has been inspected using google chrome developer tools and Firefox ins
 2. Go to project repository
 3. click on the code button, select what want to clone HTTPS, SSH or GitHub CLI and copy the link.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory
-15. Copy 'git clone' into the terminal and paste the link you copied in step 3.  Press enter.
+5. Copy 'git clone' into the terminal and paste the link you copied in step 3.  Press enter.
 
 
 ### Acknowledging Contributions & Credits
-We followed along the CI instruction videos for the 'Love Running' site and made the basis of our site going through it step by step.  We researched and copied the code for the 'Meet the Team' cards showing our healthcare professionals from W3 schools website. 
+We followed along the CI instruction videos for the 'Love Running' site and created the basis of our site going through it step by step.  We researched and copied the code for the 'Meet the Team' cards showing our healthcare professionals from W3 schools website. 
 
-We got help with the READ.me by watching the video 'Creating your first README with Kera Cudmore' on CI Chanel Lead Library on YouTube and also the video with Lane-Sawyer Thompson on CI Channel on YouTube.  Thanks and credit to the on-line tutors, Ray, Gemma, Roo and Alan for their expertise and ability to explain some of the 'challenges' we encountered. Like to thank our very supportive and positive facilitator Laura Maycock and my Kiwi mentor Dick Vlaanderen.
-Also found the 'Community Q&A: How to Troubleshoot with Lane-Sawyer Thompson' on event brite was helpful in how to view looking at the site for bugs and methodically identifying issues. 
+We got help with the READ.me by watching the video 'Creating your first README with Kera Cudmore' on CI Chanel Lead Library on YouTube and also the video with Lane-Sawyer Thompson on CI Channel on YouTube.  Thanks and credit to the on-line tutors, Ray, Gemma, Roo and Alan for their expertise and ability to explain some of the 'challenges' we encountered. Thanks our very supportive and positive facilitator Laura Maycock and my Kiwi mentor Dick Vlaanderen.
+Also found the webinar 'Community Q&A: How to Troubleshoot with Lane-Sawyer Thompson' very helpul approach to how to view looking at the site for bugs and methodically identifying issues. 
 
 **CONTENT**
 The content text for Dungarvan Health Clinic is fictious and is written by Viki Mulhall. The icons in the footer were taken from Font Awesome. 
