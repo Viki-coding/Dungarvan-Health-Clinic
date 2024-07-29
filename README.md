@@ -1,5 +1,6 @@
-##Dungarvan Health Clinic##
-##Introduction 
+### Dungarvan Health Clinic
+
+### Introduction
 The Dungarvan Health Clinic website highlights the holistic offerings of health services in one accessible health centre. 
 We aim to showcase the services provided, the qualifications of its health practitioners and allow the user to contact or make an appointment easily with a couple of options.
 
@@ -102,7 +103,7 @@ HTML
 <img width="642" alt="Screenshot 2024-07-27 at 12 05 38" src="https://github.com/user-attachments/assets/b0c015e0-d1ea-4734-b2f2-f860db6371ff">
 
 ### Quality Assurance - Steps taken to manually test project / Ensure it functions correctly / Identifies potential bugs
-
+We created a specific testing template to ensure and re-check all pages were working correctly as specified with expected and actual outcomes using a methodical approach.   
 
 * Lighthouse
 Manual Testing
@@ -112,7 +113,7 @@ Manual Testing
 *   At least one radio button has to be selected
 *   When we click on Submit the user is given some feedback.
 *   Check the external link - CAREDOC - opens in new page
-Used an apple iPhone 12 mini mobile phone, a  Samsung  Galaxy tablet and MacBook Pro for testing the site on various real screen sizes.
+
   BUGS
   Known bugs
   Solved Bugs
@@ -123,12 +124,9 @@ Used an apple iPhone 12 mini mobile phone, a  Samsung  Galaxy tablet and MacBook
 <img width="1354" alt="Screenshot 2024-07-27 at 12 22 17" src="https://github.com/user-attachments/assets/f886b2fd-fba6-4f0b-8799-b3ea3a7cba06">
 
 ### User Experience Assurance - Ensures that the end-users have a smooth experience by addressing potential issues
-  Testing was on-going throughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
-
-  Each page has been inspected using google chrome developer tools and Firefox inspector tool to ensure each page is fully responsive on a variety of different screen sizes and devices. 
-We created a specific testing template to ensure and re-check all pages were working correctly as specified with expected and actual outcomes using a methodical approach.    
-
-
+Testing was on-going throughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
+Each page has been inspected using google chrome developer tools and Firefox inspector tool to ensure each page is fully responsive on a variety of different screen sizes and devices. We tested the site on the following devices: apple iPhone 12 mini mobile phone, a  Samsung  Galaxy tablet and MacBook Pro for testing the site on various real time screen sizes. All tested very well and no problems or bugs. 
+ 
 ### Guided Setup - Step by step process for deploying the project 
 ## Deployment Steps 
 1. The site is Deployed using GitHub Pages 
