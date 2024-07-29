@@ -15,7 +15,7 @@ The target audience is new and existing patients based in the Dungarvan area wit
 First Time users will find the site intuitive and easy to navigate.  The site is clear, the Home page has a clear call to actions with features such as a link using the phone number to book an appointment, highlighting the phone number visibly and displaying the clinics location easily. 
 Our return visitors will know that the clinics phone number is accessible on the Home page and will be familiar with the call back form.
 
-> Design Choices
+**Design Choices**
 
 ### Color Scheme
 We choose these color schemes as green is a calming color and purple is a healing color.  The colors work well together and provoke a professional yet warm tone which will be communicated to the user.  <p>We checked which font color stood out best against these, both getting 5 star ratings.  Graphic illustrated below. <p>
