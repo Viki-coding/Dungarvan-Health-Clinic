@@ -1,8 +1,8 @@
-## Dungarvan Health Clinic
-## Introduction 
+<center>## Dungarvan Health Clinic</center>center>
+##Introduction 
 The Dungarvan Health Clinic website highlights the holistic offerings of health services in one accessible health centre. 
 We aim to showcase the services provided, the qualifications of its health practitioners and allow the user to contact or make an appointment easily with a couple of options.
-> :warning: **Warning:** Do not push the big red button.
+
 ### Description  - Project Purpose 
 The website consists of 3 pages.  Each clear, simple and effective. The user logs on to the website, sees a friendly faced image, to make a possible apprehensive patient more relaxed.  The user (who may be feeling unwell) do not need to see a complicated website to navigate through, our aim was to make the website easily navigable and intuitive with clear call to actions. 
 
