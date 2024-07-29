@@ -2,6 +2,7 @@
 ## Introduction 
 The Dungarvan Health Clinic website highlights the holistic offerings of health services in one accessible health centre. 
 We aim to showcase the services provided, the qualifications of its health practitioners and allow the user to contact or make an appointment easily with a couple of options.
+> :warning: **Warning:** Do not push the big red button.
 ### Description  - Project Purpose 
 The website consists of 3 pages.  Each clear, simple and effective. The user logs on to the website, sees a friendly faced image, to make a possible apprehensive patient more relaxed.  The user (who may be feeling unwell) do not need to see a complicated website to navigate through, our aim was to make the website easily navigable and intuitive with clear call to actions. 
 
@@ -102,12 +103,12 @@ HTML
 
 ### Quality Assurance - Steps taken to manually test project / Ensure it functions correctly / Identifies potential bugs
 
-* 
+
 * Lighthouse
 Manual Testing
 * Test Form
 *   All fields entered
-*   |Valid email address?
+*   Valid email address?
 *   At least one radio button has to be selected
 *   When we click on Submit the user is given some feedback.
 *   Check the external link - CAREDOC - opens in new page
@@ -167,4 +168,4 @@ Media
 The photos used on the all 3 pages were from Pixabay and are AI generated.
 ### Legal & Ethical Compliance 
 This project is for educational purposes only.
-![image](https://github.com/user-attachments/assets/e3a04a91-0534-4bb5-aa5f-c8282c0e7427)
+
