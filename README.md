@@ -1,4 +1,4 @@
-### Dungarvan Health Clinic
+### DUNGARVAN HEALTH CLINIC
 
 ### Introduction
 The Dungarvan Health Clinic website highlights the holistic offerings of health services in one accessible health centre. 
