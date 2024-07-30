@@ -43,7 +43,6 @@ header a {
     color: #ffffff;
 }
 
-
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
@@ -87,6 +86,7 @@ main {
     margin-top: 80px;
 }
 
+/* Styling hero image */
 #hero {
     height: 600px;
     width: 100%;
@@ -95,6 +95,7 @@ main {
     padding-bottom: 10px;
 }
 
+/* Styling cover text */
 #cover-text {
     background-color: rgba(174, 193, 181, .7);
     font-size: 130%;
@@ -111,24 +112,25 @@ main {
 }
 /* Styling links from W3 schools */
 /* unvisited link */
- #phone > h3 > a:link {
+#phone > h3 > a:link {
     color: white;
   }
   
-  /* visited link */
-  #phone > a:visited {
+/* visited link */
+#phone > a:visited {
     color: #aec1b5;
   }
   
-  /* mouse over link */
-  #phone > h3 > a:hover {
+/* mouse over link */
+#phone > h3 > a:hover {
     font-size: larger;
   }
 
- /* selected link */
-  #phone > a:active {
+/* selected link */
+#phone > a:active {
   color: white;
   } 
+
 /* Meet the team */
 /* Three columns side by side */
 /* Styling column cards code from W3 schools */
@@ -162,6 +164,7 @@ main {
   .container > h2 {
     color: #060f19;
   }
+
   /* Clear floats */
   .container::after, .row::after {
     content: "";
@@ -252,11 +255,13 @@ footer > h3, p {
   padding: 20px;
 }
 
+/* Do no display image when viewed on mobile */
 @media screen and (max-width: 650px) {
 #callbackjpg > img {
   display: none;
 }
 }
+
 /* media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
@@ -279,11 +284,13 @@ footer > h3, p {
     #menu > li {
         padding-left: 5rem;
     }
+
     #logo {
         font-size: 288%;
         line-height: 75px;
         margin: 0 0.5rem;
     }
+
     main {
         margin-top: 79px;
     }
