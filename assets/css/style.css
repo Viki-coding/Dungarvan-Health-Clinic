@@ -110,8 +110,12 @@ main {
     color: #060f19;
 }
 
- /* unvisited link */
+ 
+ a {
+  color: white;
+}
 
+/* unvisited link */
  #phone > a:link {
     color: white;
   }
@@ -127,9 +131,9 @@ main {
   }
 
  /* selected link */
- #phone > a:active {
+  #phone > a:active {
   color: white;
-} 
+  } 
 /* Meet the team */
 /* Three columns side by side */
 .column {
