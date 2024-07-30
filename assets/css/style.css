@@ -255,8 +255,8 @@ footer > h3, p {
   padding: 20px;
 }
 
-/* Do no display image when viewed on mobile */
-@media screen and (max-width: 479px) {
+/* Do no display image when viewed on mobile and tablet */
+@media screen and (max-width: 767px) {
 #callbackjpg > img {
   display: none;
 }
