@@ -67,7 +67,7 @@ The hero image is of a friendly, happy faced healthcare worker which sets up the
 We clearly list the healthcare services provided. 
 Our call to action feature on this Home page is the phone number, we want people to contact us.  The phone number is visible, on larger screens it enlarges when the mouse hovers over it and if clicked will begin a call. 
 
-![Phone](https://github.com/user-attachments/assets/60c8f188-7b71-4429-b24b-3c24179bbeff)
+____
 
 
 ## Footer
@@ -111,6 +111,8 @@ We have 3 pages on our site - Home - Meet the Team - Call Back Request
 Our three pages will be displayed on our nav bar at the top of each page and can be navigated easily between.  The user will understand which page they are on as there is an underline under the active page.
 
 We will be interacting with the user when they click on the Phone link on the HOME page.  
+
+![Phone](https://github.com/user-attachments/assets/60c8f188-7b71-4429-b24b-3c24179bbeff)
 
 They will have their first interaction with their healthcare worker when they view them on the 'Meet the Team' page. They can get familiar with which healthcare worker would be the best fit for them.   
 
