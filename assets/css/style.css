@@ -256,7 +256,7 @@ footer > h3, p {
 }
 
 /* Do no display image when viewed on mobile */
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 479px) {
 #callbackjpg > img {
   display: none;
 }
