@@ -47,7 +47,6 @@ We created a wireframe using Balsamiq to plan out the structure and style of the
 
 ## FEATURES
 
-
 > ## HOME PAGE
 > 
 The HOME page contains a clear information section on what we offer and how to contact us. 
@@ -64,7 +63,6 @@ ___
 
 ## Footer
 Our Footer bar offers easy access to the location details of our health clinic with Eircode and active links to our Facebook and Instagram pages, which open in separate tabs. 
-
 
 
 > ## MEET THE TEAM
@@ -107,7 +105,6 @@ They will have their first interaction with their healthcare worker when they vi
 Another great interaction point is our forms section to make a Call Back request - creating an action to making that first step to initiating an appointment. 
 
 Finally they can interact with our social media sites by clicking on the links which will open in a new page. 
-
 
 
 ## Future Implementation Section 
@@ -166,12 +163,12 @@ As shown in the evaluation sheet above we navigated around our site and tested a
  
 <img width="1354" alt="Screenshot 2024-07-27 at 12 22 17" src="https://github.com/user-attachments/assets/f886b2fd-fba6-4f0b-8799-b3ea3a7cba06">
 
-Our navigation bar was overlapping with our main header, we watched some youtube videos to understand how to recify this and found "Prevent Fixed Navbar overlapping" by ByteGrad very helpful. 
+Our navigation bar was overlapping with our main header, we watched some YouTube videos to understand how to rectify this and found "Prevent Fixed Navbar overlapping" by ByteGrad very helpful. 
 
-On the phone link on the Home page we created code to make the phone number larger on hover, it was working and then on testing was not working.  We fixed this bug as we had subsequntly put the phone number in heading 3 style, so then change the parent in the hover code.
+On the phone link on the Home page we created code to make the phone number larger on hover, it was working and then on testing was not working.  We fixed this bug as we had subsequently put the phone number in heading 3 style, so then change the parent in the hover code.
 
 ### User Experience Assurance
-We want to ensure the end-user has a smooth experience and addresed any potential issues by testing and fixing any bugs on the site.  Testing was on-going throughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
+We want to ensure the end-user has a smooth experience and addressed any potential issues by testing and fixing any bugs on the site.  Testing was on-going throughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
 Each page has been inspected using google chrome developer tools and Firefox inspector tool to ensure each page is fully responsive on a variety of different screen sizes and devices. We tested the site on the following devices: apple iPhone 12 mini mobile phone, a  Samsung  Galaxy tablet and MacBook Pro for testing the site on various real time screen sizes. All tests responded and well with no bugs reported.
  
 
@@ -198,12 +195,11 @@ Each page has been inspected using google chrome developer tools and Firefox ins
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory
 5. Copy 'git clone' into the terminal and paste the link you copied in step 3.  Press enter.
 
-
 ### Acknowledging Contributions & Credits
 We followed along the CI instruction videos for the 'Love Running' site and created the basis of our site going through it step by step.  We researched and copied the code for the 'Meet the Team' cards showing our healthcare professionals from W3 schools website. 
 
 We got help with the READ.me by watching the video 'Creating your first README with Kera Cudmore' on CI Chanel Lead Library on YouTube and also the video with Lane-Sawyer Thompson on CI Channel on YouTube.  Thanks to the on-line tutors, Ray, Gemma, Roo and Alan for their expertise and ability to explain some of the 'challenges' we encountered. Thanks our very supportive and positive facilitator Laura Maycock and my Kiwi mentor Dick Vlaanderen.
-Also found the webinar 'Community Q&A: How to Troubleshoot with Lane-Sawyer Thompson' very helpul approach to how to view looking at the site for bugs and methodically identifying issues. 
+Also found the webinar 'Community Q&A: How to Troubleshoot with Lane-Sawyer Thompson' very helpful approach to how to view looking at the site for bugs and methodically identifying issues. 
 
 **CONTENT**
 The content text for Dungarvan Health Clinic is fictious and is written by Viki Mulhall. The icons in the footer were taken from Font Awesome. 
@@ -213,6 +209,3 @@ The photos used on the all 3 pages were from Pixabay and are AI generated.
 
 ### Legal & Ethical Compliance 
 This project is for educational purposes only.
-
-
-
