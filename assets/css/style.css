@@ -176,7 +176,7 @@ main {
   /* Call back request */
   #callback {
     background-color: rgba(174, 193, 181);
-    background-size:cover;
+    background-size: cover;
     background-position: 100%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
@@ -185,12 +185,12 @@ main {
   #callbackform {
     color: #060f19;
     background-color: rgba(174, 193, 181);
-    padding: 30px;
+    padding: 0px;
   }
 
   #callbackform > h2 {
     color: #060f19;
-    margin-bottom: 20px;
+    margin-top: 10px;
   }
 
   .text-input {
