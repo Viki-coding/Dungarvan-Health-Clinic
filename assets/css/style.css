@@ -252,6 +252,11 @@ footer > h3, p {
   padding: 20px;
 }
 
+@media screen and (max-width: 650px) {
+#callbackjpg > img {
+  display: none;
+}
+}
 /* media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
     /* Header */
