@@ -168,6 +168,8 @@ As shown in the evaluation sheet above we navigated around our site and tested a
 
 Our navigation bar was overlapping with our main header, we watched some youtube videos to understand how to recify this and found "Prevent Fixed Navbar overlapping" by ByteGrad very helpful. 
 
+On the phone link on the Home page we created code to make the phone number larger on hover, it was working and then on testing was not working.  We fixed this bug as we had subsequntly put the phone number in heading 3 style, so then change the parent in the hover code.
+
 ### User Experience Assurance
 We want to ensure the end-user has a smooth experience and addresed any potential issues by testing and fixing any bugs on the site.  Testing was on-going throughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
 Each page has been inspected using google chrome developer tools and Firefox inspector tool to ensure each page is fully responsive on a variety of different screen sizes and devices. We tested the site on the following devices: apple iPhone 12 mini mobile phone, a  Samsung  Galaxy tablet and MacBook Pro for testing the site on various real time screen sizes. All tests responded and well with no bugs reported.

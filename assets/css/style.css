@@ -110,13 +110,8 @@ main {
     color: #060f19;
 }
 
- 
- a {
-  color: white;
-}
-
 /* unvisited link */
- #phone > a:link {
+ #phone > h3 > a:link {
     color: white;
   }
   
@@ -126,7 +121,7 @@ main {
   }
   
   /* mouse over link */
-  #phone > a:hover {
+  #phone > h3 > a:hover {
     font-size: larger;
   }
 
