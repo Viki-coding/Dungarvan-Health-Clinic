@@ -45,12 +45,19 @@ We created a wireframe using Balsamiq to plan out the structure and style of the
 
 <img width="766" alt="Screenshot 2024-07-26 at 21 13 32" src="https://github.com/user-attachments/assets/e9e3a812-fcbf-43d7-955b-3855a474b5a3">
 
+<img width="761" alt="Screenshot 2024-07-30 at 12 53 41" src="https://github.com/user-attachments/assets/6b7dddf9-b597-454c-adf2-1071d5e253d2">
+
+<img width="689" alt="Screenshot 2024-07-30 at 12 53 58" src="https://github.com/user-attachments/assets/0ad70b93-f19e-4900-9000-a68e6b712639">
+
+
 ## FEATURES
 
 > ## HOME PAGE
 > 
 The HOME page contains a clear information section on what we offer and how to contact us. 
 ___
+
+<img width="1421" alt="Screenshot 2024-07-30 at 12 14 10" src="https://github.com/user-attachments/assets/6e1df62d-7751-4e38-a6be-e8d4ba4f55ea">
 
 ## Navigation Bar
 Our navigation bar on the top, which shows a menu 'burger' icon on mobile and expands to detail on larger devices. Our navigation menu clearly shows which page the user is on as it is underlined. 
@@ -59,7 +66,9 @@ ___
 The hero image is of a friendly, happy faced healthcare worker which sets up the friendly tone and familiarity that Dungarvan Health Clinic wish to portray. 
 We clearly list the healthcare services provided. 
 Our call to action feature on this Home page is the phone number, we want people to contact us.  The phone number is visible, on larger screens it enlarges when the mouse hovers over it and if clicked will begin a call. 
-___
+
+![Phone](https://github.com/user-attachments/assets/60c8f188-7b71-4429-b24b-3c24179bbeff)
+
 
 ## Footer
 Our Footer bar offers easy access to the location details of our health clinic with Eircode and active links to our Facebook and Instagram pages, which open in separate tabs. 
@@ -72,7 +81,9 @@ Navigation bar also displayed on top with easy access to the other pages.
 Footer bar remains the same with the location details and social media links.
 
 **Picture below of out Meet the Team page**
-<img width="1169" alt="Screenshot 2024-07-26 at 21 45 13" src="https://github.com/user-attachments/assets/e4d36174-92ad-4998-bb45-40c970e8b714">
+
+<img width="1420" alt="Screenshot 2024-07-30 at 12 14 35" src="https://github.com/user-attachments/assets/6201008f-b21c-4794-8918-a96819320b91">
+
 
 > ## CALL BACK REQUEST
 > 
@@ -80,7 +91,8 @@ The user has the benefit of requesting a 'Call Back' with regard to a specific h
 
 **Picture below of example of Call Back Request Form**
 
-<img width="900" alt="Screenshot 2024-07-25 at 17 34 25" src="https://github.com/user-attachments/assets/9b930ba0-c06a-479e-8778-0229d0308514">
+<img width="1435" alt="Screenshot 2024-07-30 at 12 14 51" src="https://github.com/user-attachments/assets/a97c731a-d87a-4b6a-a546-26f10a53b4c0">
+
 
 **The benefit of the 'Call-Back' form is useful for 3 main reasons**:
 1. It allows patients who may be at work, or out of hours, or busy with childcare an opportunity to take action to making the first-step in contacting a health professional.
