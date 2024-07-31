@@ -137,7 +137,7 @@ List of available services and doctors could be expanded.
 Meaningful Alt descriptions on all images making it suitable for screen readers and descriptive for screen reader users. Aria labels used to describe the content for screen readers and other accessibility tools.
 Colors suitable for people who are color blind and sans serif text suitable for people with dyslexia.
 We used coolers to ensure our background and contrast colors worked efficiently and clearly.
-After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We fixed this ran Lighthouse again getting excellent accessibility scores in all pages. 
+After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We fixed this ran Lighthouse again getting excellent accessibility scores in all pages Home Page  score of 98, other pages score of 100. 
 
 ## Technologies Used
 HTML and CSS
@@ -194,7 +194,7 @@ Incognito lighthouse testing was completed on all pages with excellent results e
 <img width="506" alt="Screenshot 2024-07-31 at 12 41 07" src="https://github.com/user-attachments/assets/681889e6-41e1-4932-af7d-f6442d8a2e21">
 
 ## Call Back Request - Lighthouse Testing:
-<img width="502" alt="Screenshot 2024-07-31 at 12 41 37" src="https://github.com/user-attachments/assets/4c995f1f-5fbb-4b24-a966-2fa26c816b9c">
+<img width="576" alt="Screenshot 2024-07-31 at 15 52 47" src="https://github.com/user-attachments/assets/68dc8245-0c59-4f0a-b96d-b0fe8aef0511">
 
 ## Call Back Request - Thank you for getting in touch page - Lighthouse Testing:
 <img width="513" alt="Screenshot 2024-07-31 at 12 42 15" src="https://github.com/user-attachments/assets/a3c7df3d-78bf-477a-9170-2c5ec780f2e1">
