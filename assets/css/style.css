@@ -272,7 +272,7 @@ footer > h3, p {
 }
 
 /* Do no display image when viewed on mobile and tablet */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 958px) {
 #callbackjpg > img {
   display: none;
 }
@@ -292,6 +292,7 @@ footer > h3, p {
     .nav-toggle-label {
         display: none;
     }
+
     /* Menu */
     #menu {
     display:flex;
