@@ -28,7 +28,7 @@ Our return visitors will know that the clinics phone number is accessible on the
 ### Color Scheme
 We choose these color schemes as green is a calming color and purple is a healing color.  The colors work well together and provoke a professional yet warm tone which will produce a positive emotional response with the user.  <p>We checked which font color stood out best against these, both getting 5 star ratings.  Graphic illustrated below. <p>
 <img width="1075" alt="Screenshot 2024-07-18 at 13 59 59" src="https://github.com/user-attachments/assets/ad59197b-825e-4d49-b757-1619be30829c">
-<img width="1148" alt="Screenshot 2024-07-18 at 14 05 49" src="https://github.com/user-attachments/assets/3fcdba6a-9926-4750-bdd6-54e232462a2d">
+<img width="1075" alt="Screenshot 2024-07-18 at 14 05 49" src="https://github.com/user-attachments/assets/3fcdba6a-9926-4750-bdd6-54e232462a2d">
 
 ### Typography
 We used the font Montserrat which use a Sans Serif which is good for accessibility and is a dyslexia friendly font. 
@@ -44,13 +44,13 @@ We created a wireframe using Balsamiq to plan out the structure and style of the
 **Picture below of example of WIREFRAMES**
 
 ### Home Page
-<img width="766" alt="Screenshot 2024-07-26 at 21 13 32" src="https://github.com/user-attachments/assets/e9e3a812-fcbf-43d7-955b-3855a474b5a3">
+<img width="680" alt="Screenshot 2024-07-26 at 21 13 32" src="https://github.com/user-attachments/assets/e9e3a812-fcbf-43d7-955b-3855a474b5a3">
 
 ### Meet the Team Page
-<img width="761" alt="Screenshot 2024-07-30 at 12 53 41" src="https://github.com/user-attachments/assets/6b7dddf9-b597-454c-adf2-1071d5e253d2">
+<img width="680" alt="Screenshot 2024-07-30 at 12 53 41" src="https://github.com/user-attachments/assets/6b7dddf9-b597-454c-adf2-1071d5e253d2">
 
 ### Call Back Request
-<img width="689" alt="Screenshot 2024-07-30 at 12 53 58" src="https://github.com/user-attachments/assets/0ad70b93-f19e-4900-9000-a68e6b712639">
+<img width="680" alt="Screenshot 2024-07-30 at 12 53 58" src="https://github.com/user-attachments/assets/0ad70b93-f19e-4900-9000-a68e6b712639">
 
 
 ## FEATURES
@@ -94,7 +94,7 @@ The user has the benefit of requesting a 'Call Back' with regard to a specific h
 
 **Picture below of example of Call Back Request Form**
 
-<img width="1435" alt="Screenshot 2024-07-30 at 12 14 51" src="https://github.com/user-attachments/assets/a97c731a-d87a-4b6a-a546-26f10a53b4c0">
+<img width="1420" alt="Screenshot 2024-07-30 at 12 14 51" src="https://github.com/user-attachments/assets/a97c731a-d87a-4b6a-a546-26f10a53b4c0">
 
 
 **The benefit of the 'Call-Back' form is useful for 3 main reasons**:
@@ -114,8 +114,8 @@ We have 3 pages on our site - Home - Meet the Team - Call Back Request
 Our three pages will be displayed on our nav bar at the top of each page and can be navigated easily between.  The user will understand which page they are on as there is an underline under the active page.
 
 We will be interacting with the user when they click on the Phone link on the HOME page.  
+<img width="318" alt="call" src="https://github.com/user-attachments/assets/6f8d0c60-7f06-4708-b173-78cd0729379c">
 
-![Phone](https://github.com/user-attachments/assets/60c8f188-7b71-4429-b24b-3c24179bbeff)
 
 They will have their first interaction with their healthcare worker when they view them on the 'Meet the Team' page. They can get familiar with which healthcare worker would be the best fit for them.   
 
@@ -136,8 +136,8 @@ List of available services and doctors could be expanded.
 ## Accessibility
 Meaningful Alt descriptions on all images making it suitable for screen readers and descriptive for screen reader users. Aria labels used to describe the content for screen readers and other accessibility tools.
 Colors suitable for people who are color blind and sans serif text suitable for people with dyslexia.
-We used coolers to ensure our background and contrast colors worked effiecnely and clearly.
-After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We fixed this ran Lighthouse again getting excellent assessibility scores in all pages. 
+We used coolers to ensure our background and contrast colors worked efficiently and clearly.
+After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We fixed this ran Lighthouse again getting excellent accessibility scores in all pages. 
 
 ## Technologies Used
 HTML and CSS
@@ -155,13 +155,25 @@ HTML and CSS
 ## Manual Testing 
 We performed manual testing on the site and also ran our html and css codes through validators. 
 
-* HTML code passes through the official W3C validator with no issues
-* CSS code passes through the official (Jigsaw) validator with no issues
-
-![image](https://github.com/user-attachments/assets/0c0f59d3-0042-4059-9a9c-ae6df87a0555)
-
+## W3C Validator
+* HTML code on all pages passes through the official W3C validator with no issues.
   
-<img width="642" alt="Screenshot 2024-07-27 at 12 05 38" src="https://github.com/user-attachments/assets/b0c015e0-d1ea-4734-b2f2-f860db6371ff">
+## HOME Page - 3C Validator Test:
+<img width="1380" alt="Home Page Validator" src="https://github.com/user-attachments/assets/185224bc-9ed0-4478-bd5e-11ac40c23268">
+
+## Meet the Team Page - 3C Validator Test:
+<img width="1388" alt="Meet the Team validator" src="https://github.com/user-attachments/assets/34d27d92-dec7-45db-964e-273b3e1fbfea">
+
+## Call Back Request Page - 3C Validator Test:
+<img width="1366" alt="Call Back HTML validator" src="https://github.com/user-attachments/assets/9010e268-d982-4b80-b8ad-1dee100c591c">
+
+## Thankyou Page - 3C Validator Test:
+<img width="1352" alt="Screenshot 2024-07-31 at 15 44 01" src="https://github.com/user-attachments/assets/a41c49cc-3535-4e6e-9ea7-6a64db60b696">
+
+## CSS (Jigsaw) validator
+* CSS code passes through the official (Jigsaw) validator with no issues
+<img width="1385" alt="Screenshot 2024-07-31 at 14 56 28" src="https://github.com/user-attachments/assets/5bdfb187-3346-4918-9a4f-4d7de634ec33">
+
 
 ### Quality Assurance 
 We took a systematic and structural approach to manually test each page to ensure it functions correctly and to help identify potential bugs.
@@ -192,12 +204,13 @@ Incognito lighthouse testing was completed on all pages with excellent results e
 
 
   ### BUGS
+  
+  **Known Bugs - NONE**
  
- 
-  **Solved Bugs**
+  **SOLVED BUGS**
   When running W3C CSS validator - it displayed the following message: 
   
-    <img width="1291" alt="Screenshot 2024-07-27 at 12 18 40" src="https://github.com/user-attachments/assets/87aed563-5abe-4383-a099-9e2f15e15b68">
+<img width="1291" alt="Screenshot 2024-07-27 at 12 18 40" src="https://github.com/user-attachments/assets/87aed563-5abe-4383-a099-9e2f15e15b68">
 
  We fixed the spaces in the file name and in the root directory which fixed the errors. 
  
@@ -207,13 +220,19 @@ Our navigation bar was overlapping with our main header, we watched some YouTube
 
 On the phone link on the Home page we created code to make the phone number larger on hover, it was working and then on testing was not working.  We fixed this bug as we had subsequently put the phone number in heading 3 style, so then changed the parent in the hover code.
 
-On our Call back page we wanted to click on the SUBMIT button and be redirected to another page to say Thank you for your request, we will be in touch shortly. We were using the method:GET rather than POST and had the incorrect link to re-direct causing a 404 error page to be displayed, the link was updated correctly which rectified the error and is now working.  
+On our Call back page we wanted to click on the SUBMIT button and be redirected to another page to say 'Thank you for your request - we will be in touch' message. We were using the method:GET rather than POST and had the incorrect link to re-direct causing a 404 error page to be displayed, the link was updated correctly which rectified the error and is now working.  
+ <img width="467" alt="Error page when form submitted bug" src="https://github.com/user-attachments/assets/4b6d1da3-07fb-4bad-bd42-24ae3e16c6f7">
+
+<img width="1328" alt="Bugs on Call Back Page" src="https://github.com/user-attachments/assets/b95b5523-0de8-4922-8153-cd1180f7a21c">
+The validator identified some bugs on the Call Back Page which we fixed and rectified.  
+
+<img width="1383" alt="Screenshot 2024-07-31 at 14 50 39" src="https://github.com/user-attachments/assets/e32410cc-abdd-458d-9e73-bc4da361540c">
+The CSS validator found some bugs on the CSS style sheet which we fixed and rectified.  
 
 
 ### User Experience Assurance
 We want to ensure the end-user has a smooth experience and addressed any potential issues by testing and fixing any bugs on the site.  Testing was on-going throughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
 Each page has been inspected using google chrome developer tools and Firefox inspector tool to ensure each page is fully responsive on a variety of different screen sizes and devices. We tested the site on the following devices: apple iPhone 12 mini mobile phone, a  Samsung  Galaxy tablet and MacBook Pro for testing the site on various real time screen sizes. All tests responded and well with no bugs reported.
- 
 
 ## Deployment Steps 
 1. The site is Deployed using GitHub Pages 
