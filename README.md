@@ -227,8 +227,7 @@ On our Call back page we wanted to click on the SUBMIT button and be redirected 
 The validator identified some bugs on the Call Back Page which we fixed and rectified.  
 
 <img width="1383" alt="Screenshot 2024-07-31 at 14 50 39" src="https://github.com/user-attachments/assets/e32410cc-abdd-458d-9e73-bc4da361540c">
-The CSS validator found some bugs on the CSS style sheet which we fixed and rectified.  
-
+The CSS validator found some bugs on the CSS style sheet which we fixed and rectified. 
 
 ### User Experience Assurance
 We want to ensure the end-user has a smooth experience and addressed any potential issues by testing and fixing any bugs on the site.  Testing was on-going throughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
