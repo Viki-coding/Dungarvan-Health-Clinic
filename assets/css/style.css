@@ -173,7 +173,7 @@ main {
   }
   
   .title {
-    color: grey;
+    color: black;
   }
 
   /* Call back request */
@@ -181,7 +181,7 @@ main {
     background-color: rgba(174, 193, 181);
     background-size: cover;
     background-position: 100%;
-    padding: 20px 10% 0 10%;
+    padding: 10% 10% 0 10%;
     flex-grow: 1;
   }
 
@@ -226,7 +226,13 @@ main {
   #thankyou {
     text-align: center;
     padding: 100px 50px 50px 50px;
+    color: #060f19;
   }
+
+  #thankyou > h2 {
+    color: #060f19;
+  }
+  
 /* footer */
 footer {
     background-color: #5f376d;
@@ -318,7 +324,7 @@ footer > h3, p {
 
     #callbackform {
         max-width: 600px;
-        position: absolute;
+        position:absolute;
         left: 10%;
         top: 70px;
     }
@@ -336,8 +342,7 @@ footer > h3, p {
 
     #callbackjpg {
         float: right;
-        padding-right: 300px;
-        padding-top: 100px;
+        padding: 10px 150px 30px;
     }
 
     #callbackjpg > img {
