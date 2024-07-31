@@ -27,8 +27,8 @@ Our return visitors will know that the clinics phone number is accessible on the
 
 ### Color Scheme
 We choose these color schemes as green is a calming color and purple is a healing color.  The colors work well together and provoke a professional yet warm tone which will produce a positive emotional response with the user.  <p>We checked which font color stood out best against these, both getting 5 star ratings.  Graphic illustrated below. <p>
-<img width="1075" alt="Screenshot 2024-07-18 at 13 59 59" src="https://github.com/user-attachments/assets/ad59197b-825e-4d49-b757-1619be30829c">
-<img width="1075" alt="Screenshot 2024-07-18 at 14 05 49" src="https://github.com/user-attachments/assets/3fcdba6a-9926-4750-bdd6-54e232462a2d">
+<img width="500" alt="Screenshot 2024-07-18 at 13 59 59" src="https://github.com/user-attachments/assets/ad59197b-825e-4d49-b757-1619be30829c">
+<img width="500" alt="Screenshot 2024-07-18 at 14 05 49" src="https://github.com/user-attachments/assets/3fcdba6a-9926-4750-bdd6-54e232462a2d">
 
 ### Typography
 We used the font Montserrat which use a Sans Serif which is good for accessibility and is a dyslexia friendly font. 
