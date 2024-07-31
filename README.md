@@ -43,10 +43,13 @@ We created a wireframe using Balsamiq to plan out the structure and style of the
 
 **Picture below of example of WIREFRAMES**
 
+### Home Page
 <img width="766" alt="Screenshot 2024-07-26 at 21 13 32" src="https://github.com/user-attachments/assets/e9e3a812-fcbf-43d7-955b-3855a474b5a3">
 
+### Meet the Team Page
 <img width="761" alt="Screenshot 2024-07-30 at 12 53 41" src="https://github.com/user-attachments/assets/6b7dddf9-b597-454c-adf2-1071d5e253d2">
 
+### Call Back Request
 <img width="689" alt="Screenshot 2024-07-30 at 12 53 58" src="https://github.com/user-attachments/assets/0ad70b93-f19e-4900-9000-a68e6b712639">
 
 
@@ -76,7 +79,7 @@ Our Footer bar offers easy access to the location details of our health clinic w
 
 > ## MEET THE TEAM
 >
-Shows our healthcare workers, qualifications and spoken languages on nice feature cards which stack when viewing on mobile, making it look professional while give the user their first introduction to their doctor or health professional which will help to make them more comfortable at their first appointment. 
+Shows our healthcare workers, qualifications and spoken languages on nice feature cards which stack when viewing on mobile, making it look professional while giving the user their first introduction to their doctor or health professional which will help to make them more comfortable at their first appointment. 
 Navigation bar also displayed on top with easy access to the other pages. 
 Footer bar remains the same with the location details and social media links.
 
@@ -116,9 +119,10 @@ We will be interacting with the user when they click on the Phone link on the HO
 
 They will have their first interaction with their healthcare worker when they view them on the 'Meet the Team' page. They can get familiar with which healthcare worker would be the best fit for them.   
 
-Another great interaction point is our forms section to make a Call Back request - creating an action to making that first step to initiating an appointment. 
+Another great interaction point is our forms section to make a Call Back request - creating an action to making that first step to initiating an appointment, the following screen is displayed to the user once they click on the SUBMIT button offering positive feedback and confirming the Health Clinic will be in touch. 
 
-<img width="1427" alt="Screenshot 2024-07-31 at 10 44 49" src="https://github.com/user-attachments/assets/39a0ea97-3394-4feb-9fa1-ae340709e25f">
+<img width="1436" alt="Screenshot 2024-07-31 at 12 54 47" src="https://github.com/user-attachments/assets/f0bfd9d3-917b-4273-b511-22639c3558eb">
+
 
 Finally they can interact with our social media sites by clicking on the links which will open in a new page. 
 
@@ -132,6 +136,8 @@ List of available services and doctors could be expanded.
 ## Accessibility
 Meaningful Alt descriptions on all images making it suitable for screen readers and descriptive for screen reader users. Aria labels used to describe the content for screen readers and other accessibility tools.
 Colors suitable for people who are color blind and sans serif text suitable for people with dyslexia.
+We used coolers to ensure our background and contrast colors worked effiecnely and clearly.
+After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We fixed this ran Lighthouse again getting excellent assessibility scores in all pages. 
 
 ## Technologies Used
 HTML and CSS
@@ -144,6 +150,7 @@ HTML and CSS
 * Font Awesome for iconography on website 
 * Favicon.io - to create favicon
 * Coolors - checking colour pallets and their contrast abilities with fonts.
+* Berme.net - to reduce image sizes and convert to .webp
 
 ## Manual Testing 
 We performed manual testing on the site and also ran our html and css codes through validators. 
@@ -166,10 +173,27 @@ We created a specific testing template to ensure and re-check all pages were wor
 
 As shown in the evaluation sheet above we navigated around our site and tested all available options to ensure they were working as intended, such as checking if a valid email address is entered and prompting the user if it is not, checking when we click on the Facebook icon, that it does in fact take us to a Facebook page and opens in a new page. 
 
-  ### BUGS
-  **Known bugs**
-  On our Call back page we would like to click on the SUBMIT button and be redirected to a page to say Thank you for your request, we will be in touch shortly.  But we were unable to do this. 
+## Lighthouse Testing
+Incognito lighthouse testing was completed on all pages with excellent results ensuring optimal page loading times:
+## HOME Page - Lighthouse Testing:
+<img width="492" alt="Screenshot 2024-07-31 at 12 40 38" src="https://github.com/user-attachments/assets/eee21020-12ba-40d1-9099-6e4ae37281a1">
 
+## Meet the Team - Lighthouse Testing:
+<img width="506" alt="Screenshot 2024-07-31 at 12 41 07" src="https://github.com/user-attachments/assets/681889e6-41e1-4932-af7d-f6442d8a2e21">
+
+## Call Back Request - Lighthouse Testing:
+<img width="502" alt="Screenshot 2024-07-31 at 12 41 37" src="https://github.com/user-attachments/assets/4c995f1f-5fbb-4b24-a966-2fa26c816b9c">
+
+## Call Back Request - Thank you for getting in touch page - Lighthouse Testing:
+<img width="513" alt="Screenshot 2024-07-31 at 12 42 15" src="https://github.com/user-attachments/assets/a3c7df3d-78bf-477a-9170-2c5ec780f2e1">
+
+
+
+
+
+  ### BUGS
+ 
+ 
   **Solved Bugs**
   When running W3C CSS validator - it displayed the following message: 
   
@@ -181,7 +205,10 @@ As shown in the evaluation sheet above we navigated around our site and tested a
 
 Our navigation bar was overlapping with our main header, we watched some YouTube videos to understand how to rectify this and found "Prevent Fixed Navbar overlapping" by ByteGrad very helpful. 
 
-On the phone link on the Home page we created code to make the phone number larger on hover, it was working and then on testing was not working.  We fixed this bug as we had subsequently put the phone number in heading 3 style, so then change the parent in the hover code.
+On the phone link on the Home page we created code to make the phone number larger on hover, it was working and then on testing was not working.  We fixed this bug as we had subsequently put the phone number in heading 3 style, so then changed the parent in the hover code.
+
+On our Call back page we wanted to click on the SUBMIT button and be redirected to another page to say Thank you for your request, we will be in touch shortly. We were using the method:GET rather than POST and had the incorrect link to re-direct causing a 404 error page to be displayed, the link was updated correctly which rectified the error and is now working.  
+
 
 ### User Experience Assurance
 We want to ensure the end-user has a smooth experience and addressed any potential issues by testing and fixing any bugs on the site.  Testing was on-going throughout the build.   We used Chrome development tools while building to pinpoint and troubleshoot any issues as we progressed. 
