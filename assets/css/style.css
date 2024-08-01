@@ -181,7 +181,7 @@ main {
     background-color: rgba(174, 193, 181);
     background-size: cover;
     background-position: 100%;
-    padding: 10% 10% 0 10%;
+    padding: 10% 10% 10% 10%;
     flex-grow: 1;
   }
 
@@ -232,6 +232,10 @@ main {
   #thankyou > h2 {
     color: #060f19;
   }
+
+  #thankyou > a {
+    border-bottom: none;
+  }
   
 /* footer */
 footer {
@@ -278,8 +282,8 @@ footer > h3, p {
 }
 }
 
-/* media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {
+/* media query: tablets and larger (958px and up) */
+@media screen and (min-width: 958px) {
     /* Header */
     nav {
         display: block;
