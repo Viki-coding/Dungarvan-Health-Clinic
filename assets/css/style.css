@@ -183,7 +183,6 @@ main {
     background-position: 100%;
     padding: 10% 10% 10% 10%;
     flex-grow: 1;
-    height: 200px;
   }
 
   #callbackform {
