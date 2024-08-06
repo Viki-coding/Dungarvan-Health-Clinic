@@ -1,109 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Meta tags for search engines -->
-     <meta name="description" content="Dungarvan Health Clinic.  A holistic healthcare centre based in Dungarvan with GP, Dietican, Pharmacist and Acupunture all under the one roof">
-     <meta name="keywords" content="GP, dietican, acupunture, pharmacy, Dungarvan, holistic, healthcare, doctor, local, doc, asthma, asthma specialist">
-    <!-- Title -->
-    <title>Dungarvan Health Clinic</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Meta tags for search engines -->
+	<meta name="description" content="Dungarvan Health Clinic.  A holistic healthcare centre based in Dungarvan with GP, Dietican, Pharmacist and Acupunture all under the one roof">
+	<meta name="keywords" content="GP, dietican, acupunture, pharmacy, Dungarvan, holistic, healthcare, doctor, local, doc, asthma, asthma specialist">
+	<!-- Title -->
+	<title>Dungarvan Health Clinic</title>
+	<!-- Favicon -->
+	<link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<!-- Stylesheet -->
+	<link rel="stylesheet" href="assets/css/style.css"> </head>
 
-    <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <!-- Stylesheet -->
-     <link rel="stylesheet" href="assets/css/style.css">
-    
-</head>
 <body>
-
-    <header>
-        <a href="index.html">
-            <h1 id="logo">Dungarvan Health Clinic</h1>
-        </a>
-        <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label">
-            <i class="fa-solid fa-bars"></i>
-        </label>
-        <nav>
-            <ul id="menu">
-                <li><a href="index.html" >Home</a></li>
-                <li><a href="meettheteam.html">Meet the Team</a></li>
-                <li><a href="callbackrequest.html" class="active">Call Back Request</a></li>
-            </ul>
-        </nav>
-    </header>
-    <Main> 
-        <section id="callback">
-            <form id="callbackform" method="GET" action="thankyou.html">
-                <h2><i class="fa-solid fa-phone"></i>  Fill in details:</h2>
-                <br>
-                <label for="first-name">First Name</label>
-                <input type="text" name="first_name" id="first-name" class="text-input" required>
-                <br>
-                <label for="last-name">Last Name</label>
-                <input type="text" name="last_name" id="last-name" class="text-input" required>
-                <br>
-                <label for="email-address">Email Address</label>
-                <input type="email" name="email_address" id="email-address" class="text-input" required>
-                <br>
-                <label for="phone-number">Phone Number</label>
-                <input type="tel" name="phone_number" id="phone-number" class="text-input" required>
-                <br>
-                <div class="radio-buttons">
-                    <div>
-                        <label for="gp">GP</label>
-                        <input type="radio" name="healthprofessional_preference" id="gp" value="gp" required checked>
-                    </div>
-                    <div>
-                        <label for="dietican">Dietician</label>
-                        <input type="radio" name="healthprofessional_preference" id="dietican" value="dietican" required>
-                    </div>
-                    <div>
-                        <label for="womenshealth">Women's Health</label>
-                        <input type="radio" name="healthprofessional_preference" id="womenshealth" value="womenshealth" required>
-                    </div>
-                    <div>
-                        <label for="asthma">Asthma Specialist</label>
-                        <input type="radio" name="healthprofessional_preference" id="asthma" value="asthma" required>
-                    </div>
-                </div>
-                <button type="submit" class="callback-button">SUBMIT</button>
-            </form>
-        </section>
-        
-        <div id="callbackjpg">
-            <img src="assets/images/healthprofessionalinorange.jpg" alt="Smiling health professional in organge scrubs sitting at desk with stethescope" style="width: 300px;height: 400px;"> 
-        </div>
-        
-    </Main>
-    <footer>
-        <div id="footercontainer">
-            <div>
-            <p><b>EIRCODE: X35 Y659 </b></p>
-            <p>Hermitage Park, Dungarvan, Waterford</p>
-            </div>
-
-            <div>
-                <ul id="social-networks">
-                    <li>
-                    <a href="https://www.facebook.com/" target="_blank" rel="noopener"
-                    aria-label="Visit our Facebook page (opens in a new tab)">
-                    <i class="fa-brands fa-facebook"></i></a>
-                    </li>
-                    <li>
-                    <a href="http://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in new tab)" ><i class="fa-brands fa-instagram"></i></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </footer>
-
-      <!-- Font awesome kit -->
-      <script src="https://kit.fontawesome.com/213d853def.js" crossorigin="anonymous"></script>
-    
+	<header>
+		<a href="index.html">
+			<h1 id="logo">Dungarvan Health Clinic</h1> </a>
+		<input type="checkbox" id="nav-toggle" name="nav-toggle">
+		<label for="nav-toggle" class="nav-toggle-label"> <i class="fa-solid fa-bars"></i> </label>
+		<nav>
+			<ul id="menu">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="meettheteam.html">Meet the Team</a></li>
+				<li><a href="callbackrequest.html" class="active">Call Back Request</a></li>
+			</ul>
+		</nav>
+	</header>
+	<Main>
+		<section id="callback">
+			<form id="callbackform" method="GET" action="thankyou.html">
+				<h2><i class="fa-solid fa-phone"></i>  Fill in details:</h2>
+				<br>
+				<label for="first-name">First Name</label>
+				<input type="text" name="first_name" id="first-name" class="text-input" required>
+				<br>
+				<label for="last-name">Last Name</label>
+				<input type="text" name="last_name" id="last-name" class="text-input" required>
+				<br>
+				<label for="email-address">Email Address</label>
+				<input type="email" name="email_address" id="email-address" class="text-input" required>
+				<br>
+				<label for="phone-number">Phone Number</label>
+				<input type="tel" name="phone_number" id="phone-number" class="text-input" required>
+				<br>
+				<div class="radio-buttons">
+					<div>
+						<label for="gp">GP</label>
+						<input type="radio" name="healthprofessional_preference" id="gp" value="gp" required checked> </div>
+					<div>
+						<label for="dietican">Dietician</label>
+						<input type="radio" name="healthprofessional_preference" id="dietican" value="dietican" required> </div>
+					<div>
+						<label for="womenshealth">Women's Health</label>
+						<input type="radio" name="healthprofessional_preference" id="womenshealth" value="womenshealth" required> </div>
+					<div>
+						<label for="asthma">Asthma Specialist</label>
+						<input type="radio" name="healthprofessional_preference" id="asthma" value="asthma" required> </div>
+				</div>
+				<button type="submit" class="callback-button">SUBMIT</button>
+			</form>
+		</section>
+		<div id="callbackjpg"> <img src="assets/images/healthprofessionalinorange.jpg" alt="Smiling health professional in organge scrubs sitting at desk with stethescope" style="width: 300px;height: 400px;"> </div>
+	</Main>
+	<footer>
+		<div id="footercontainer">
+			<div>
+				<p><b>EIRCODE: X35 Y659 </b></p>
+				<p>Hermitage Park, Dungarvan, Waterford</p>
+			</div>
+			<div>
+				<ul id="social-networks">
+					<li>
+						<a href="https://www.facebook.com/" target="_blank" rel="noopener" aria-label="Visit our Facebook page (opens in a new tab)"> <i class="fa-brands fa-facebook"></i></a>
+					</li>
+					<li> <a href="http://www.instagram.com/" target="_blank" rel="noopener" aria-label="Visit our Instagram page (opens in new tab)"><i class="fa-brands fa-instagram"></i></a> </li>
+				</ul>
+			</div>
+		</div>
+	</footer>
+	<!-- Font awesome kit -->
+	<script src="https://kit.fontawesome.com/213d853def.js" crossorigin="anonymous"></script>
 </body>
+
 </html>
