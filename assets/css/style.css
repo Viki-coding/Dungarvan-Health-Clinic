@@ -28,8 +28,8 @@ h1, h2, h3 {
 /* Header */
 header {
     background-color: #5f376d;
-    padding: 0 1rem;
-    position: fixed;
+    padding: 1rem;
+    position: relative;
     z-index: 999;
     width: 100%;
     box-shadow: 0 2px 2px #ffffff;
