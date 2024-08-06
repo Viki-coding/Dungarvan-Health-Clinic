@@ -88,7 +88,7 @@ main {
 
 /* Styling hero image */
 #hero {
-    height: 600px;
+    height: 750px;
     width: 100%;
     background: url("../images/happymedic.jpg") no-repeat center center/cover;
     position: relative;
