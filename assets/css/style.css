@@ -28,8 +28,8 @@ h1, h2, h3 {
 /* Header */
 header {
     background-color: #5f376d;
-    padding: 1rem;
-    position: relative;
+    padding: 0 1rem;
+    position: fixed;
     z-index: 999;
     width: 100%;
     box-shadow: 0 2px 2px #ffffff;
@@ -330,7 +330,7 @@ footer > h3, p {
         max-width: 600px;
         position:absolute;
         left: 10%;
-        top: 140px;
+        top: 100px;
     }
 
     .text-input:hover {
@@ -346,9 +346,8 @@ footer > h3, p {
 
     #callbackjpg {
         position: relative;
-        padding-right: 200px;
-        padding-top: 0px;
-        padding-bottom: 100px;
+        bottom: 120px;
+        right: 180px;
         float: inline-end;
     }
 
