@@ -27,8 +27,8 @@ Our return visitors will know that the clinics phone number is accessible on the
 
 ### Color Scheme
 We choose these color schemes as green is a calming color and purple is a healing color.  The colors work well together and provoke a professional yet warm tone which will produce a positive emotional response with the user.  <p>We checked which font color stood out best against these, both getting 5 star ratings.  Graphic illustrated below. <p>
-<img width="500" alt="Screenshot 2024-07-18 at 13 59 59" src="https://github.com/user-attachments/assets/ad59197b-825e-4d49-b757-1619be30829c">
-<img width="500" alt="Screenshot 2024-07-18 at 14 05 49" src="https://github.com/user-attachments/assets/3fcdba6a-9926-4750-bdd6-54e232462a2d">
+<img width="400" alt="Screenshot 2024-07-18 at 13 59 59" src="https://github.com/user-attachments/assets/ad59197b-825e-4d49-b757-1619be30829c">
+<img width="400" alt="Screenshot 2024-07-18 at 14 05 49" src="https://github.com/user-attachments/assets/3fcdba6a-9926-4750-bdd6-54e232462a2d">
 
 ### Typography
 We used the font Montserrat which use a Sans Serif which is good for accessibility and is a dyslexia friendly font. 
@@ -42,16 +42,23 @@ All images contain 'alt' text so that it can be more accessible for screen reade
 We created a wireframe using Balsamiq to plan out the structure and style of the website. We spoke with the users to gain their insight and views.  This was created for  displaying the site on mobiles and larger screens such as tablets and desktops. This was the beginning of our design journey, as we progressed with the design we made some changes to the actual website. During this planning phase we researched the fonts and background colors and text colors that would be most suitable and gained user feedback.  
 
 **Picture below of example of WIREFRAMES**
+___
 
 ### Home Page
-<img width="680" alt="Screenshot 2024-07-26 at 21 13 32" src="https://github.com/user-attachments/assets/e9e3a812-fcbf-43d7-955b-3855a474b5a3">
+<img width="600" alt="Screenshot 2024-07-26 at 21 13 32" src="https://github.com/user-attachments/assets/e9e3a812-fcbf-43d7-955b-3855a474b5a3">
+
+___
 
 ### Meet the Team Page
-<img width="680" alt="Screenshot 2024-07-30 at 12 53 41" src="https://github.com/user-attachments/assets/6b7dddf9-b597-454c-adf2-1071d5e253d2">
+<img width="600" alt="Screenshot 2024-07-30 at 12 53 41" src="https://github.com/user-attachments/assets/6b7dddf9-b597-454c-adf2-1071d5e253d2">
+
+___
+
 
 ### Call Back Request
-<img width="680" alt="Screenshot 2024-07-30 at 12 53 58" src="https://github.com/user-attachments/assets/0ad70b93-f19e-4900-9000-a68e6b712639">
+<img width="600" alt="Screenshot 2024-07-30 at 12 53 58" src="https://github.com/user-attachments/assets/0ad70b93-f19e-4900-9000-a68e6b712639">
 
+___
 
 ## FEATURES
 
@@ -128,16 +135,19 @@ Finally they can interact with our social media sites by clicking on the links w
 
 
 ## Future Implementation Section 
-This site could be developed in the future with the patients making their own on-line bookings. 
-Payments could be made on-line with a history of invoices paid so the user can claim it back on their tax relief rather than having physical pieces of paper stored in random places at home. 
-Patients could access Downloadable patient information sheets. 
-List of available services and doctors could be expanded. 
+* This site could be developed in the future with the patients making their own on-line bookings. 
+* Payments could be made on-line with a history of invoices paid so the user can claim it back on their tax relief rather than having 
+ physical pieces of paper stored in random places at home. 
+* Patients could request repeat prescriptions and could be emailed direct to pharmacy.
+* Patients could access Downloadable patient information sheets. 
+* List of available services and doctors could be expanded. 
 
 ## Accessibility
-Meaningful Alt descriptions on all images making it suitable for screen readers and descriptive for screen reader users. Aria labels used to describe the content for screen readers and other accessibility tools.
-Colors suitable for people who are color blind and sans serif text suitable for people with dyslexia.
-We used coolers to ensure our background and contrast colors worked efficiently and clearly.
-After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We fixed this ran Lighthouse again getting excellent accessibility scores in all pages Home Page  score of 98, other pages score of 100. 
+ - Meaningful Alt descriptions on all images making it suitable for screen readers and descriptive for screen reader users.
+ - Aria labels used to describe the content for screen readers and other accessibility tools.
+ - Colors suitable for people who are color blind and sans serif text suitable for people with dyslexia.
+ - We used coolers to ensure our background and contrast colors worked efficiently and clearly.
+ - After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We checked on the web for solutions and found W3 schools had a solution.  We looked ont he web for the correct font sizes required and amended the code to make larger, clearer radio buttons. We ran Lighthouse again getting excellent accessibility scores in all pages with a score of 98 on the Home Page while achieving 100 on all other pages.
 
 ## Technologies Used
 HTML and CSS
@@ -151,6 +161,7 @@ HTML and CSS
 * Favicon.io - to create favicon
 * Coolors - checking colour pallets and their contrast abilities with fonts.
 * Berme.net - to reduce image sizes and convert to .webp
+* Responsiveness testing done on https://responsivetesttool.com/
 
 ## Manual Testing 
 We performed manual testing on the site and also ran our html and css codes through validators. 
@@ -187,26 +198,50 @@ As shown in the evaluation sheet above we navigated around our site and tested a
 
 ## Lighthouse Testing
 Incognito lighthouse testing was completed on all pages with excellent results ensuring optimal page loading times:
+
+___
+
 ## HOME Page - Lighthouse Testing:
 <img width="492" alt="Screenshot 2024-07-31 at 12 40 38" src="https://github.com/user-attachments/assets/eee21020-12ba-40d1-9099-6e4ae37281a1">
+
+___
 
 ## Meet the Team - Lighthouse Testing:
 <img width="506" alt="Screenshot 2024-07-31 at 12 41 07" src="https://github.com/user-attachments/assets/681889e6-41e1-4932-af7d-f6442d8a2e21">
 
+___
+
 ## Call Back Request - Lighthouse Testing:
 <img width="576" alt="Screenshot 2024-07-31 at 15 52 47" src="https://github.com/user-attachments/assets/68dc8245-0c59-4f0a-b96d-b0fe8aef0511">
+
+___
 
 ## Call Back Request - Thank you for getting in touch page - Lighthouse Testing:
 <img width="513" alt="Screenshot 2024-07-31 at 12 42 15" src="https://github.com/user-attachments/assets/a3c7df3d-78bf-477a-9170-2c5ec780f2e1">
 
 
+## Responsiveness 
+We created the website using the mobile first technique and created screen queries to accommodate the site on larger sizes.  We found the website https://responsivetesttool.com/ useful when evaluating how are website looked on various devices. 
 
+We used https://ui.dev/amiresponsive as a quick tool to see how the site looked in general on some various screen sizes, image below:
+
+<img width="949" alt="Screenshot 2024-08-06 at 13 24 31" src="https://github.com/user-attachments/assets/012036d5-ee58-4099-a97c-26c98ac154a9">
+
+We also did testing on the following actual devices:
+
+<img width="1199" alt="Screenshot 2024-08-06 at 13 30 19" src="https://github.com/user-attachments/assets/703debe0-afdb-48f3-89d5-36906d1f38e1">
+
+### Browser Response 
+We also checked our deployed website on various browsers to check how they were displayed and we were happy with the results.
+
+
+<img width="474" alt="Screenshot 2024-08-06 at 13 28 46" src="https://github.com/user-attachments/assets/e6886dcc-f9ed-41a3-a36f-baacdc999e73">
 
 
   ### BUGS
   
   **Known Bugs - NONE**
- 
+ ___
   **SOLVED BUGS**
   When running W3C CSS validator - it displayed the following message: 
   
@@ -257,9 +292,9 @@ Each page has been inspected using google chrome developer tools and Firefox ins
 5. Copy 'git clone' into the terminal and paste the link you copied in step 3.  Press enter.
 
 ### Acknowledging Contributions & Credits
-We followed along the CI instruction videos for the 'Love Running' site and created the basis of our site going through it step by step.  We researched and copied the code for the 'Meet the Team' cards showing our healthcare professionals from W3 schools website. 
+We followed along the CI instruction videos for the 'Love Running' site and created the basis of our site going through it step by step.  We researched and got inspiration using the code for the 'Meet the Team' cards showing our healthcare professionals from W3 schools website, we then amended it fit in with our site. 
 
-We got help with the READ.me by watching the video 'Creating your first README with Kera Cudmore' on CI Chanel Lead Library on YouTube and also the video with Lane-Sawyer Thompson on CI Channel on YouTube.  Thanks to the on-line tutors, Ray, Gemma, Roo and Alan for their expertise and ability to explain some of the 'challenges' we encountered. Thanks our very supportive and positive facilitator Laura Maycock and my Kiwi mentor Dick Vlaanderen.
+We got help with the READ.me by watching the video 'Creating your first README with Kera Cudmore' on CI Chanel Lead Library on YouTube and also the video with Lane-Sawyer Thompson on CI Channel on YouTube.  Thanks to the on-line tutors, Ray, Gemma, Roo and Alan for their expertise and ability to explain some of the 'challenges' we encountered. Thanks to our very supportive and positive facilitator Laura Maycock and my Kiwi mentor Dick Vlaanderen.
 Also found the webinar 'Community Q&A: How to Troubleshoot with Lane-Sawyer Thompson' very helpful approach to how to view looking at the site for bugs and methodically identifying issues. 
 
 **CONTENT**
