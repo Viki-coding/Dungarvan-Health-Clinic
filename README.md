@@ -140,7 +140,9 @@ Finally they can interact with our social media sites by clicking on the links w
  physical pieces of paper stored in random places at home. 
 * Patients could request repeat prescriptions and could be emailed direct to pharmacy.
 * Patients could access Downloadable patient information sheets. 
-* List of available services and doctors could be expanded. 
+* List of available services and doctors could be expanded.
+* Radio buttons for selecting health specialty - force the user to select one rather than defaulting to GP.
+
 
 ## Accessibility
  - Meaningful Alt descriptions on all images making it suitable for screen readers and descriptive for screen reader users.
@@ -192,7 +194,7 @@ We created a specific testing template to ensure and re-check all pages were wor
 
 **Test Evaluation Sheet**:
 
-<img width="1195" alt="Screenshot 2024-07-29 at 15 12 40" src="https://github.com/user-attachments/assets/e1cebea5-8a38-42fa-b9d0-993790b15741">
+
 
 | PAGE               |    | Feature                                                                     | Test Performed                                                          | Expected Outcome                        | Pass / Fail |
 | ------------------ | -- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------- | ----------- |
