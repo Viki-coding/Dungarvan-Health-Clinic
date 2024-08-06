@@ -1,3 +1,4 @@
+/* Basic coding inspired by Love Running walk through project */
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
 
@@ -134,6 +135,7 @@ main {
 /* Meet the team */
 /* Three columns side by side */
 /* Styling column cards code inspired by W3 schools */
+/* screen query for cards left in this section for reference rather than end */
 .column {
     float: left;
     width: 33.3%;
@@ -178,7 +180,7 @@ main {
 
   /* Call back request */
   #callback {
-    background-color: rgba(174, 193, 181);
+    background-color: #aec1b5;
     background-size: cover;
     background-position: 100%;
     padding: 10% 10% 10% 10%;
@@ -187,7 +189,7 @@ main {
 
   #callbackform {
     color: #060f19;
-    background-color: rgba(174, 193, 181);
+    background-color: #aec1b5;
     padding: 0px;
   }
 
@@ -348,7 +350,7 @@ footer > h3, p {
         position: relative;
         bottom: 120px;
         right: 180px;
-        float: inline-end;
+        float: right;
     }
 
     #callbackjpg > img {
