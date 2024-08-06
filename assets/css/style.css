@@ -110,7 +110,7 @@ main {
 #cover-text > h3 {
     color: #060f19;
 }
-/* Styling links from W3 schools */
+/* Styling links inspired by W3 schools */
 /* unvisited link */
 #phone > h3 > a:link {
     color: white;
@@ -133,7 +133,7 @@ main {
 
 /* Meet the team */
 /* Three columns side by side */
-/* Styling column cards code from W3 schools */
+/* Styling column cards code inspired by W3 schools */
 .column {
     float: left;
     width: 33.3%;
