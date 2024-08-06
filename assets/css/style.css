@@ -88,7 +88,7 @@ main {
 
 /* Styling hero image */
 #hero {
-    height: 750px;
+    height: 700px;
     width: 100%;
     background: url("../images/happymedic.jpg") no-repeat center center/cover;
     position: relative;
@@ -100,7 +100,7 @@ main {
     background-color: rgba(174, 193, 181, .7);
     font-size: 130%;
     position: absolute;
-    bottom: 30px;
+    bottom: 40px;
     width: 80%;
     min-height: 200px;
     padding-top: 30px;
