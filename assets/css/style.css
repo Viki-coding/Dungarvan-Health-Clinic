@@ -113,7 +113,8 @@ main {
   padding-left: 10px;
 }
 
-#cover-text>h3 {
+#cover-text>h3,
+h4 {
   color: #060f19;
 }
 
