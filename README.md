@@ -41,22 +41,25 @@ All images contain 'alt' text so that it can be more accessible for screen reade
 ### Wireframes
 We created a wireframe using Balsamiq to plan out the structure and style of the website. We spoke with the users to gain their insight and views.  This was created for  displaying the site on mobiles and larger screens such as tablets and desktops. This was the beginning of our design journey, as we progressed with the design we made some changes to the actual website. During this planning phase we researched the fonts and background colors and text colors that would be most suitable and gained user feedback.  
 
-**Picture below of example of WIREFRAMES**
+**Picture below of WIREFRAMES**
 ___
 
 ### Home Page
-<img width="600" alt="Screenshot 2024-07-26 at 21 13 32" src="https://github.com/user-attachments/assets/e9e3a812-fcbf-43d7-955b-3855a474b5a3">
+<img width="871" alt="Screenshot 2024-08-07 at 12 32 55" src="https://github.com/user-attachments/assets/c3f1ef95-8b4a-4255-8f88-5bfd4b2b1451">
+
 
 ___
 
 ### Meet the Team Page
-<img width="600" alt="Screenshot 2024-07-30 at 12 53 41" src="https://github.com/user-attachments/assets/6b7dddf9-b597-454c-adf2-1071d5e253d2">
+<img width="868" alt="Screenshot 2024-08-07 at 12 33 14" src="https://github.com/user-attachments/assets/8ba8d702-39c0-4f2f-9c39-a899dc397ba0">
+
 
 ___
 
 
+
 ### Call Back Request
-<img width="600" alt="Screenshot 2024-07-30 at 12 53 58" src="https://github.com/user-attachments/assets/0ad70b93-f19e-4900-9000-a68e6b712639">
+<img width="868" alt="Screenshot 2024-08-07 at 12 33 26" src="https://github.com/user-attachments/assets/af5a3f1f-64bc-4c04-80b4-0d0661ad39aa">
 
 ___
 
@@ -157,7 +160,8 @@ HTML and CSS
 ## Frameworks, Libraries and Programs Used
 * Balsamiq Wireframes - used to create wireframes
 * Git - version control
-* Git Hub - To save and store the files for the website 
+* Git Hub - To save and store the files for the website
+* Gid Pod - to create & amend html and css code
 * Google Fonts - to import fonts onto the website
 * Font Awesome for iconography on website 
 * Favicon.io - to create favicon
