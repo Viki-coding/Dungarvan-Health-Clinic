@@ -4,266 +4,274 @@
 
 /* Asterisk wildcard selector to override default styles */
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 /* General styles */
 body {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    color: #ffffff;
-    font-family: 'Montserrat', sans-serif;
-    background-color: #aec1b5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #aec1b5;
 }
 
-h1, h2, h3 {
-    font-family: "Montserrat", sans-serif;
-    color: #ffffff;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+h1,
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 /* Header */
 header {
-    background-color: #5f376d;
-    padding: 0 1rem;
-    position: fixed;
-    z-index: 999;
-    width: 100%;
-    box-shadow: 0 2px 2px #ffffff;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+  background-color: #5f376d;
+  padding: 0 1rem;
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  box-shadow: 0 2px 2px #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
 header a {
-    text-decoration: none;
-    color: #ffffff;
+  text-decoration: none;
+  color: #ffffff;
 }
 
 #menu {
-    font-size: 110%;
-    letter-spacing: 4px;
-    list-style-type: none;
+  font-size: 110%;
+  letter-spacing: 4px;
+  list-style-type: none;
 }
 
-#menu > li {
-    margin-bottom: 1em;
+#menu>li {
+  margin-bottom: 1em;
 }
+
 .active {
-    border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
 }
 
 /* Nav styles with dropdown toggle */
 nav {
-    position: absolute;
-    background-color: #5f376d;
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
-    box-shadow: 0 2px 2px #ffffff;
-    display: none;
-    top: 100%;
+  position: absolute;
+  background-color: #5f376d;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  box-shadow: 0 2px 2px #ffffff;
+  display: none;
+  top: 100%;
 }
 
 #nav-toggle:checked~nav {
-    display: block;
+  display: block;
 }
+
 #nav-toggle {
-    display: none;
+  display: none;
 }
 
 .nav-toggle-label {
-    font-size: 2rem;
-    color: #ffffff;
+  font-size: 2rem;
+  color: #ffffff;
 }
 
 /* main content */
 main {
-    flex: 1 0 auto;
-    margin-top: 80px;
+  flex: 1 0 auto;
+  margin-top: 80px;
 }
 
 /* Styling hero image */
 #hero {
-    height: 700px;
-    width: 100%;
-    background: url("../images/happymedic.jpg") no-repeat center center/cover;
-    position: relative;
-    padding-bottom: 10px;
+  height: 700px;
+  width: 100%;
+  background: url("../images/happymedic.jpg") no-repeat center center/cover;
+  position: relative;
+  padding-bottom: 10px;
 }
 
 /* Styling cover text */
 #cover-text {
-    background-color: rgba(174, 193, 181, .7);
-    font-size: 130%;
-    position: absolute;
-    bottom: 60px;
-    width: 80%;
-    min-height: 200px;
-    padding-top: 30px;
-    padding-left: 10px;
+  background-color: rgba(174, 193, 181, .7);
+  font-size: 130%;
+  position: absolute;
+  bottom: 60px;
+  width: 80%;
+  min-height: 200px;
+  padding-top: 30px;
+  padding-left: 10px;
 }
 
-#cover-text > h3 {
-    color: #060f19;
+#cover-text>h3 {
+  color: #060f19;
 }
+
 /* Styling links inspired by W3 schools */
 /* unvisited link */
-#phone > h3 > a:link {
-    color: white;
-  }
-  
+#phone>h3>a:link {
+  color: white;
+}
+
 /* visited link */
-#phone > a:visited {
-    color: #aec1b5;
-  }
-  
+#phone>a:visited {
+  color: #aec1b5;
+}
+
 /* mouse over link */
-#phone > h3 > a:hover {
-    font-size: larger;
-  }
+#phone>h3>a:hover {
+  font-size: larger;
+}
 
 /* selected link */
-#phone > a:active {
+#phone>a:active {
   color: white;
-  } 
+}
 
 /* Meet the team */
 /* Three columns side by side */
 /* Styling column cards code inspired by W3 schools */
 /* screen query for cards left in this section for reference rather than end */
 .column {
-    float: left;
-    width: 33.3%;
-    margin-bottom: 16px;
-    padding: 80px 8px;
-  }
-
-  /* Display the columns below each other instead of side by side on small screens */
-  @media screen and (max-width: 650px) {
-    .column {
-      width: 100%;
-      display: block;
-    }
-  }
-  
-  /* Add some shadows to create a card effect */
-  .card {
-    background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  }
-  
-  /* Some left and right padding inside the container */
-  .container {
-    padding: 0 16px;
-    color:#060f19;
-  }
-  
-  .container > h2 {
-    color: #060f19;
-  }
-
-  /* Clear floats */
-  .container::after, .row::after {
-    content: "";
-    clear: both;
-    display: table;
-  }
-  
-  .title {
-    color: black;
-  }
-
-  /* Call back request */
-  #callback {
-    background-color: #aec1b5;
-    background-size: cover;
-    background-position: 100%;
-    padding: 10% 10% 10% 10%;
-    flex-grow: 1;
-  }
-
-  #callbackform {
-    color: #060f19;
-    background-color: #aec1b5;
-    padding: 0px;
-  }
-
-  #callbackform > h2 {
-    color: #060f19;
-    margin-top: 10px;
-  }
-
-  .text-input {
-    background-color: #fafafa;
-    color: #060f19;
-    width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
-    border-radius: 2px;
-    padding: 0 5px;
-  }
-
-/* Improve spacing for accessibility inspired by W3 schools*/
-  [type="checkbox"], [type="radio"] {
-    height:20px; 
-    width:20px;
-    }
-
-  .callback-button {
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px;
-    font-size: 100%;
-    background-color: #5F376D;
-    color: #fafafa;
-    background-position: center;
-  }
-  
-/* Styling thankyou page */
-  #thankyou {
-    text-align: center;
-    padding: 100px 50px 50px 50px;
-    color: #060f19;
-  }
-
-  #thankyou > h2 {
-    color: #060f19;
-  }
-
-  #thankyou > a {
-    border-bottom: none;
-  }
-  
-/* footer */
-footer {
-    background-color: #5f376d;
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 80px 8px;
 }
 
-footer > h3, p {
-    padding-left: 5px;
-    padding-top: 5px;
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+/* Add some shadows to create a card effect */
+.card {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Some left and right padding inside the container */
+.container {
+  padding: 0 16px;
+  color: #060f19;
+}
+
+.container>h2 {
+  color: #060f19;
+}
+
+/* Clear floats */
+.container::after,
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: black;
+}
+
+/* Call back request */
+#callback {
+  background-color: #aec1b5;
+  background-size: cover;
+  background-position: 100%;
+  padding: 10% 10% 10% 10%;
+  flex-grow: 1;
+}
+
+#callbackform {
+  color: #060f19;
+  background-color: #aec1b5;
+  padding: 0px;
+}
+
+#callbackform>h2 {
+  color: #060f19;
+  margin-top: 10px;
+}
+
+.text-input {
+  background-color: #fafafa;
+  color: #060f19;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border-radius: 2px;
+  padding: 0 5px;
+}
+
+/* Improve spacing for accessibility inspired by W3 schools*/
+[type="checkbox"],
+[type="radio"] {
+  height: 20px;
+  width: 20px;
+}
+
+.callback-button {
+  margin-top: 20px;
+  border-radius: 2px;
+  padding: 15px 32px;
+  font-size: 100%;
+  background-color: #5F376D;
+  color: #fafafa;
+  background-position: center;
+}
+
+/* Styling thankyou page */
+#thankyou {
+  text-align: center;
+  padding: 100px 50px 50px 50px;
+  color: #060f19;
+}
+
+#thankyou>h2 {
+  color: #060f19;
+}
+
+#thankyou>a {
+  border-bottom: none;
+}
+
+/* footer */
+footer {
+  background-color: #5f376d;
+}
+
+footer>h3,
+p {
+  padding-left: 5px;
+  padding-top: 5px;
 }
 
 #social-networks {
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
+  text-align: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
 }
 
 #social-networks i {
-    font-size: 180%;
-    padding: 5%;
-    color: #ffffff;
+  font-size: 180%;
+  padding: 5%;
+  color: #ffffff;
 }
 
-#social-networks > li {
+#social-networks>li {
   padding-right: 20px;
 }
 
@@ -272,95 +280,96 @@ footer > h3, p {
   justify-content: space-between;
 }
 
-#footercontainer > div {
+#footercontainer>div {
   margin: 10px;
   padding: 20px;
 }
 
 /* Do no display image when viewed on mobile and tablet */
 @media screen and (max-width: 958px) {
-#callbackjpg > img {
-  display: none;
-}
+  #callbackjpg>img {
+    display: none;
+  }
 }
 
 /* media query: tablets and larger (958px and up) */
 @media screen and (min-width: 958px) {
-    /* Header */
-    nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        width: fit-content;
-        padding-right: 1rem;
-    }
 
-    .nav-toggle-label {
-        display: none;
-    }
+  /* Header */
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    padding-right: 1rem;
+  }
 
-    /* Menu */
-    #menu {
-    display:flex;
-    }
+  .nav-toggle-label {
+    display: none;
+  }
 
-    #menu > li {
-        padding-left: 5rem;
-    }
+  /* Menu */
+  #menu {
+    display: flex;
+  }
 
-    #logo {
-        font-size: 288%;
-        line-height: 75px;
-        margin: 0 0.5rem;
-    }
+  #menu>li {
+    padding-left: 5rem;
+  }
 
-    main {
-        margin-top: 79px;
-    }
+  #logo {
+    font-size: 288%;
+    line-height: 75px;
+    margin: 0 0.5rem;
+  }
 
-    #cover-text {
-        width: 400px;
-        left: 50px;
-    }
+  main {
+    margin-top: 79px;
+  }
 
-    #callback {
-        background-position: center;
-        position: relative;
-    }
+  #cover-text {
+    width: 400px;
+    left: 50px;
+  }
 
-    #callbackform {
-        max-width: 600px;
-        position:absolute;
-        left: 10%;
-        top: 100px;
-    }
+  #callback {
+    background-position: center;
+    position: relative;
+  }
 
-    .text-input:hover {
-        border-color: #060f19;
-    }
+  #callbackform {
+    max-width: 600px;
+    position: absolute;
+    left: 10%;
+    top: 100px;
+  }
 
-    .callback-button:hover {
-        background-color: #5F376D;
-        border: #ffffff;
-        color: #aec1b5;
-        font-size: larger;
-    }
+  .text-input:hover {
+    border-color: #060f19;
+  }
 
-    #callbackjpg {
-        position: relative;
-        bottom: 120px;
-        right: 180px;
-        float: right;
-    }
+  .callback-button:hover {
+    background-color: #5F376D;
+    border: #ffffff;
+    color: #aec1b5;
+    font-size: larger;
+  }
 
-    #callbackjpg > img {
-        border-radius: 50%;
-    }
+  #callbackjpg {
+    position: relative;
+    bottom: 120px;
+    right: 180px;
+    float: right;
+  }
+
+  #callbackjpg>img {
+    border-radius: 50%;
+  }
 }
 
 /* Large devices (tablets and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-    #menu a:hover{
-        border-bottom: 1px solid #ffffff;
-    }
+  #menu a:hover {
+    border-bottom: 1px solid #ffffff;
+  }
 }
