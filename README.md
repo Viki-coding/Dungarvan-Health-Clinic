@@ -143,6 +143,13 @@ Another great interaction point is our forms section to make a Call Back request
 
 Finally they can interact with our social media sites by clicking on the links which will open in a new page. 
 
+### Custom 404 Page
+We also created a custom 404 page incase someone makes a small typing error they will still be re-directed towards our site. 
+
+<img width="500" alt="Screenshot 2024-08-07 at 16 16 57" src="https://github.com/user-attachments/assets/6a2de766-d911-473c-b790-49c481e83abc">
+<img width="400" alt="Screenshot 2024-08-07 at 16 26 42" src="https://github.com/user-attachments/assets/1b45d948-49ca-48c7-b0c2-f1f800b08cde">
+
+
 
 ## Future Implementation Section 
 * This site could be developed in the future with the patients making their own on-line bookings. 
