@@ -70,7 +70,9 @@ ___
 The HOME page contains a clear information section on what we offer and how to contact us. 
 ___
 
-<img width="1421" alt="Screenshot 2024-07-30 at 12 14 10" src="https://github.com/user-attachments/assets/6e1df62d-7751-4e38-a6be-e8d4ba4f55ea">
+<img width="720" alt="Screenshot 2024-08-07 at 12 41 23" src="https://github.com/user-attachments/assets/b4209528-3217-4c9f-9985-4545cd40c6ac">
+
+
 
 ## Navigation Bar
 Our navigation bar on the top, which shows a menu 'burger' icon on mobile and expands to detail on larger devices. Our navigation menu clearly shows which page the user is on as it is underlined. 
@@ -83,9 +85,11 @@ Our call to action feature on this Home page is the phone number, we want people
 ____
 
 
-## Footer
-Our Footer bar offers easy access to the location details of our health clinic with Eircode and active links to our Facebook and Instagram pages, which open in separate tabs. 
 
+## Footer
+Our Footer bar is consistent on all pages and offers easy access to viewing the opening hours of the clinic, the location details of our health clinic with Eircode and active links to our Facebook and Instagram pages, which open in separate tabs.
+
+<img width="1157" alt="Screenshot 2024-08-07 at 13 11 14" src="https://github.com/user-attachments/assets/fdcb0eb7-8e13-45ed-9ead-18c1efb58d82">
 
 > ## MEET THE TEAM
 >
@@ -95,7 +99,8 @@ Footer bar remains the same with the location details and social media links.
 
 **Picture below of out Meet the Team page**
 
-<img width="1420" alt="Screenshot 2024-07-30 at 12 14 35" src="https://github.com/user-attachments/assets/6201008f-b21c-4794-8918-a96819320b91">
+<img width="719" alt="Screenshot 2024-08-07 at 12 41 48" src="https://github.com/user-attachments/assets/b053821c-53ea-450f-8855-8eea51cfc6e3">
+
 
 
 > ## CALL BACK REQUEST
@@ -104,7 +109,7 @@ The user has the benefit of requesting a 'Call Back' with regard to a specific h
 
 **Picture below of example of Call Back Request Form**
 
-<img width="1420" alt="Screenshot 2024-07-30 at 12 14 51" src="https://github.com/user-attachments/assets/a97c731a-d87a-4b6a-a546-26f10a53b4c0">
+<img width="717" alt="Screenshot 2024-08-07 at 12 42 07" src="https://github.com/user-attachments/assets/0eee7218-cb7c-4c30-a3f0-d13338b37e5f">
 
 
 **The benefit of the 'Call-Back' form is useful for 3 main reasons**:
@@ -131,7 +136,9 @@ They will have their first interaction with their healthcare worker when they vi
 
 Another great interaction point is our forms section to make a Call Back request - creating an action to making that first step to initiating an appointment, the following screen is displayed to the user once they click on the SUBMIT button offering positive feedback and confirming the Health Clinic will be in touch. 
 
-<img width="1436" alt="Screenshot 2024-07-31 at 12 54 47" src="https://github.com/user-attachments/assets/f0bfd9d3-917b-4273-b511-22639c3558eb">
+<img width="1426" alt="thankyou" src="https://github.com/user-attachments/assets/1ec04a2a-46fb-43c2-a478-b2c8056dceb4">
+
+
 
 
 Finally they can interact with our social media sites by clicking on the links which will open in a new page. 
@@ -152,7 +159,7 @@ Finally they can interact with our social media sites by clicking on the links w
  - Aria labels used to describe the content for screen readers and other accessibility tools.
  - Colors suitable for people who are color blind and sans serif text suitable for people with dyslexia.
  - We used coolers to ensure our background and contrast colors worked efficiently and clearly.
- - After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We checked on the web for solutions and found W3 schools had a solution.  We looked ont he web for the correct font sizes required and amended the code to make larger, clearer radio buttons. We ran Lighthouse again getting excellent accessibility scores in all pages with a score of 98 on the Home Page while achieving 100 on all other pages.
+ - After running our deployed site in incognito mode using Lighthouse we identified that our radio buttons on our form were too small and not spaced apart enough for accessibility.  We checked on the web for solutions and found W3 schools had a solution.  We looked on the web for the correct font sizes required and amended the code to make larger, clearer radio buttons. We ran Lighthouse again getting excellent accessibility scores in all pages with a score of 98 on the Home Page while achieving 100 on all other pages.
 
 ## Technologies Used
 HTML and CSS
