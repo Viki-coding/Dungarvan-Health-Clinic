@@ -246,7 +246,7 @@ footer {
 
 footer>h3,
 p {
-  padding-left: 5px;
+  padding-left: 2px;
   padding-top: 5px;
 }
 
@@ -274,8 +274,8 @@ p {
 }
 
 #footercontainer>div {
-  margin: 10px;
-  padding: 20px;
+  margin: 5px;
+  padding: 10px;
 }
 
 /* Display the health professional columns cards below each other instead of side by side on small screens */
